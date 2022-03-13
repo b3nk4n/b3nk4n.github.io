@@ -1,7 +1,7 @@
 ---
 title: Manage Your Java Environment
 author:
-  name: Benjamin Kan
+  name: Benjamin Sautermeister
 categories: [Software Engineering]
 tags: [java]
 pin: true

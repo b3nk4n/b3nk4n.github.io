@@ -29,7 +29,7 @@ After a while, the local service will be published at http://localhost:4000.
 ## Documentation
 
 - [Writing a New Post](https://chirpy.cotes.page/posts/write-a-new-post/)
-- [Text, Typography and Elements](https://chirpy.cotes.page/posts/text-and-typography/)
+- [Text, Typography and Elements](https://chirpy.cotes.page/posts/text-and-typography/) ([raw](https://raw.githubusercontent.com/cotes2020/jekyll-theme-chirpy/master/_posts/2019-08-08-text-and-typography.md))
 - [Customize the Favicon](https://chirpy.cotes.page/posts/customize-the-favicon/)
 - [Enable Google Page Views](https://chirpy.cotes.page/posts/enable-google-pv/)
 
