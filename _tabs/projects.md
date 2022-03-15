@@ -1,6 +1,6 @@
 ---
 title: Projects
-icon: fas fa-cog
+icon: fas fa-laptop-code
 order: 2
 ---
 
