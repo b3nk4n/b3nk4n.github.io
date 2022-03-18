@@ -4,38 +4,55 @@ icon: fas fa-user
 order: 1
 ---
 
-This page is still under construction...
+A passionate technology enthusiast who enjoys dealing with various challenges in the field of Software Engineering,
+Game Development and Machine Learning, well balanced with outdoor activities, healthy food and a good social life
+with family and friends. In both my professional career, I'm creating software such as large scale cloud native
+microservice applications in the domain of observability, automated monitoring and alerting such as AIOps.
+In my free time, I love to work on mobile apps or 2D retro games running on different platforms that are used
+by a large number of end-users. Lately, I started to work on online multiplayer games to make the time during the pendamic
+with friends more enjoyable.
 
-## Career
+What excites me about writing software is that sky's literally the limit thanks to open source: you have free access
+to kind of everything you need, and the only tool required is your computer that you have anyways.
+In the end, the only limit is your time and creativity.
 
-|--|:-|
-| ![IBM](/assets/images/logos/ibm.png){: w="128" style="min-width: 32px"} | **Lead Software Engineering Professional** <br/> IBM Germany Research & Development GmbH <br/> Watson AIOps / Hybrid Cloud <br/> *Munich, DE --- since 01/2022* |
-| ![Instana](/assets/images/logos/instana-ibm.png){: w="128" style="min-width: 32px"} | **Lead Software Engineer** <br/> Instana -- an IBM Company <br/> Anomaly Detection and Alerting <br/> *Munich, DE --- 10/2021 - 12/2021* |
-| ![Instana](/assets/images/logos/instana.png){: w="128" style="min-width: 32px"} | **Senior Software Engineer** <br/> Instana GmbH <br/> Issue Detection and Alerting <br/> *Munich, DE --- 10/2019 - 10/2021* |
-| ![Instana](/assets/images/logos/instana-stan.png){: w="128" style="min-width: 32px"} | **Machine Learning Engineer** <br/> Instana GmbH <br/> Alerting and Automated RCA <br/> *Munich, DE --- 02/2018 - 10/2019* |
-| ![Comfylight GmbH](/assets/images/logos/comfylight.jpeg){: w="128" style="min-width: 32px"} | **Machine Learning Software Engineer** <br/> ComfyLight GmbH <br/> ML/AI for IoT and Android App <br/> *Munich, DE --- 03/2017 - 02/2018* |
-| ![In GmbH](/assets/images/logos/ingmbh.png){: w="128" style="min-width: 32px"} | **Software Engineer --- Intern** <br/> ComfyLight GmbH <br/> Spring and JavaEE Cloud Services <br/> *Constance, DE --- 03/2014 - 08/2014* |
-| ![Namics AG](/assets/images/logos/namics.jpeg){: w="128" style="min-width: 32px"} | **Web Developer --- Intern** <br/> Namics AG <br/> Sitecore WCMS and ASP.Net Development <br/> *St. Gallen, CH --- 03/2012 - 09/2012* |
-| ![Quicksoft Est](/assets/images/logos/quicksoft.png){: w="128" style="min-width: 32px"} | **Junior .Net Developer --- Student Employee** <br/> Namics AG <br/> ASP.Net and Windows Phone Apps <br/> *Vaduz, LI --- 07/2009 - 05/2011* |
+## Working Experience
 
-## Experiences & Volunteer Work
+|---|:--|
+| ![IBM](/assets/images/logos/ibm.png){: w="72" style="min-width: 32px"} | **Lead Software Engineering Professional** <br/> _**IBM Germany Research & Development GmbH**_ <br/> Watson AIOps / Hybrid Cloud <br/> *Munich, DE --- since 01/2022* |
+| ![Instana](/assets/images/logos/instana-ibm.png){: w="72" style="min-width: 32px"} | **Lead Software Engineer** <br/> _**Instana GmbH** -- an IBM Company_ <br/> Anomaly Detection and Alerting <br/> *Munich, DE --- 10/2021 - 12/2021* |
+| ![Instana](/assets/images/logos/instana.png){: w="72" style="min-width: 32px"} | **Senior Software Engineer** <br/> _**Instana GmbH**_ <br/> Issue Detection and Alerting <br/> *Munich, DE --- 10/2019 - 10/2021* |
+| ![Instana](/assets/images/logos/instana-stan.png){: w="72" style="min-width: 32px"} | **Machine Learning Engineer** <br/> _**Instana GmbH**_ <br/> Alerting and Automated RCA <br/> *Munich, DE --- 02/2018 - 10/2019* |
+| ![Comfylight GmbH](/assets/images/logos/comfylight.jpeg){: w="72" style="min-width: 32px"} | **Machine Learning Software Engineer** <br/> _**ComfyLight GmbH**_ <br/> ML/AI for IoT and Android App <br/> *Munich, DE --- 03/2017 - 02/2018* |
+| ![In GmbH](/assets/images/logos/ingmbh.png){: w="72" style="min-width: 32px"} | **Software Engineer --- Intern** <br/> _**in-integrierte informationssysteme GmbH**_ <br/> Spring and JavaEE Cloud Services <br/> *Constance, DE --- 03/2014 - 08/2014* |
+| ![Namics AG](/assets/images/logos/namics.jpeg){: w="72" style="min-width: 32px"} | **Web Developer --- Intern** <br/> _**Namics AG**_ <br/> Sitecore WCMS and ASP.Net Development <br/> *St. Gallen, CH --- 03/2012 - 09/2012* |
+| ![Windows Developer](/assets/images/logos/windows-dev.png){: w="72" style="min-width: 32px"} | **Indie Mobile App Developer** <br/> Windows Phone and Windows 10 <br/> 16 Apps, 5 Games, 2.5+ Mio Downloads, ø 4.4 ★ Rating <br/> Reviews by WindowsCentral, WindowsArea, MobiFlip and PocketPC <br/> *DE --- 02/2011 - 10/2016* |
+| ![German Red Cross](/assets/images/logos/grc.png){: w="72" style="min-width: 32px"} | **Community Service** <br/> _**German Red Cross**_ <br> Transportation Service for People with Disabilities <br/> *Bad Säckingen, DE* --- 09/2009 - 05/2010 |
+| ![Quicksoft Est](/assets/images/logos/quicksoft.png){: w="72" style="min-width: 32px"} | **Junior .Net Developer --- Student Employee** <br/> _**Quicksoft Est.**_ <br/> ASP.Net and Windows Phone Apps <br/> *Vaduz, LI --- 07/2009 - 05/2011* |
 
-| ![FES](/assets/images/logos/fes.jpeg){: w="128" style="min-width: 32px"} | **Technical Support** <br/> Friedrich Ebert Foundation <br/> *Germany --- 04/2012 - 02/2017* |
-| ![Windows Developer](/assets/images/logos/windows-dev.png){: w="128" style="min-width: 32px"} | **Indie Mobile App Developer** <br/> Windows Phone and Windows 10 Apps and Games <br/> *Germany --- 02/2011 - 10/2016* |
-| ![German Red Cross](/assets/images/logos/grc.png){: w="128" style="min-width: 32px"} | **Community Service** <br/> German Red Cross <br/> *Bad Säckingen, DE* --- 09/2009 - 05/2010 |
 
 ## Education
 
 |---|:--|
-| ![TUM](/assets/images/logos/tum.png){: w="128" style="min-width: 32px"} | **Technical University of Munich** <br/> *MSc. Informatics, Grade: 1.2* <br/> Munich, Germany |
-| ![WPI](/assets/images/logos/wpi.png){: w="128" style="min-width: 32px"} |  **Worcester Polytechnic Institute** <br/> **Exchange Student at Computer Science Department** <br/> MA, USA |
-| ![HTWG](/assets/images/logos/htwg.png){: w="128" style="min-width: 32px"} | **HTWG Konstanz University of Applied Sciences** <br/> **BSc Applied Computer Science** <br/> Constance, Germany |
-| ![GSWT](/assets/images/logos/gswt.jpeg){: w="128" style="min-width: 32px"} | **GSWT Waldshut** <br/>Abitur -- High School Diploma <br/> Waldshut, Germany |
+| ![TUM](/assets/images/logos/tum.png){: w="72" style="min-width: 32px"} | **M.Sc. Informatics** \| Grade **1.2** <br/> **_Technical University of Munich_** <br/> Software Engineering, Machine Learning, Computer Graphics and Vision <br/> Thesis: Deep Learning Approaches to Predict Future Frames in Videos <br/> *Munich, Germany --- 10/2014 – 11/2016* |
+| ![WPI](/assets/images/logos/wpi.png){: w="72" style="min-width: 32px"} | **Exchange Student** \| Grade **A** <br/> _**Worcester Polytechnic Institute** --- Computer Science Department_ <br/> Technical Game Development, Augmented Reality, Software Security, English <br/> *Massachusetts, US --- 08/2013 – 12/2013* |
+| ![HTWG](/assets/images/logos/htwg.png){: w="72" style="min-width: 32px"} | **B.Sc. Applied Computer Science** \| Grade **1.1** <br/> _**HTWG Konstanz University of Applied Sciences**_ <br/> Software Engineering <br> Thesis: Concept and Implementation of Multi-tenant Services for Cloud Platforms <br/> *Constance, DE --- 10/2010 – 08/2014* |
+| ![GSWT](/assets/images/logos/gswt.jpeg){: w="72" style="min-width: 32px"} | **Abitur --- High School Diploma** \| Grade **1.3** \| English Award <br/> _**GSWT Waldshut**_ --- Information Technology Specialization <br/> *Waldshut, DE --- 09/2006 – 07/2009* |
+
 
 ## Teaching
 
-## Achievements
-
 |---|:--|
-| ![TAM](/assets/images/logos/tam.png){: w="128" style="min-width: 32px"} | **Texas A & M University** <br/> **Project** <br/> TX, USA |
-| ![FES](/assets/images/logos/fes.jpeg){: w="128" style="min-width: 32px"} | **Friedrich Ebert Foundation** <br/> **Project** <br/> TX, USA |
+| ![HTWG](/assets/images/logos/htwg.png){: w="72" style="min-width: 32px"} | **Teaching Assistant --- Programming 2** <br/> _**HTWG Konstanz University of Applied Sciences**_ <br/> Algorithms and Data Structures in Java <br/> *Constance, DE --- 10/2012 – 02/2013* |
+| ![HTWG](/assets/images/logos/htwg.png){: w="72" style="min-width: 32px"} | **Teaching Assistant --- Mathematics 2** <br/> _**HTWG Konstanz University of Applied Sciences**_ <br/> Prepare Students to Solve Required Assignments <br/> *Constance, DE --- 03/2011 – 07/2012* |
+| ![HTWG](/assets/images/logos/htwg.png){: w="72" style="min-width: 32px"} | **Teaching Assistant --- Programming 1** <br/> _**HTWG Konstanz University of Applied Sciences**_ <br/> Java Programming Techniques <br/> *Constance, DE --- 10/2011 – 02/2012* |
+
+
+## Special Achievements
+
+| ![Microsoft](/assets/images/logos/ms.png){: w="72" style="min-width: 32px"} | **First Price Winner: Christmas App Revolution** <br/> _**Microsoft Germany**_ <br/> Submitted App: powernAPP \| 650k downloads <br/> *Constance, DE --- 01/2014* |
+| ![Microsoft](/assets/images/logos/ms.png){: w="72" style="min-width: 32px"} | **Special Price Winner: App Revolution** <br/> _**Microsoft Germany**_ <br/> Submitted Game: SpacepiXX \| 250k downloads <br/> *Constance, DE --- 05/2013* |
+| ![FES](/assets/images/logos/fes.jpeg){: w="72" style="min-width: 32px"} | **Volunteer Technical Supporter** <br/> _**Friedrich Ebert Foundation**_ <br/> Mailinglist Administration, Guidance and Troubleshooting <br/> *DE --- 04/2012 - 02/2017* |
+| ![FES](/assets/images/logos/fes.jpeg){: w="72" style="min-width: 32px"} | **Scholarship Holder** <br/> _**Friedrich Ebert Foundation**_ <br/> Member of the Internet Work Group <br/> *DE --- 03/2012 – 10/2016* |
+| ![HTWG](/assets/images/logos/htwg.png){: w="72" style="min-width: 32px"} | **Faculty Council and Study Commission Member** <br/> _**HTWG Konstanz University of Applied Sciences**_ <br/> Voted Student Representative <br/> *Constance, DE --- 10/2011 – 08/2013* |
+| ![JugendForscht](/assets/images/logos/jufo.jpeg){: w="72" style="min-width: 32px"} | **Special Prize Winner at Youth Science Competition** <br/> _**Jugend Forscht** --- Mathematics and Computer Science_ <br/> Home Automation System with Custom Built Software and Hardware <br/> *Freiburg im Breisgau, DE --- 03/2009* |
