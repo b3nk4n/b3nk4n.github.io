@@ -14,7 +14,7 @@ Many things that are needed in almost every neural network training or evaluatio
 over and over again. To that end, I started to implement a high-level API for Google's machine intelligence library,
 called [TensorLight](https://github.com/b3nk4n/tensorlight).
 
-![TensorLight](/assets/images/posts/2016/tensorlight.png)
+![TensorLight](/assets/img/posts/2016/tensorlight.png)
 _TensorLight Framework logo_
 
 TensorLight comes with four guiding principles:

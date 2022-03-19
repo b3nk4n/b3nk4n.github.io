@@ -5,7 +5,7 @@ author:
 categories: [Machine Learning]
 tags: [nvidia, meetup, deep learning]
 image:
-  src: /assets/images/posts/2017/meetup-nvidia-banner.jpeg
+  src: /assets/img/posts/2017/meetup-nvidia-banner.jpeg
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: image alternative text
@@ -25,5 +25,5 @@ which is one of the building blocks of Nvidia's deep learning super computers ca
 [DGX-1](http://www.nvidia.com/object/deep-learning-system.html). This is a nice super toy that every AI-researcher would like
 to have under the Christmas tree. Unfortunately, a single device costs more than **100.000 USD**.
 
-![Nvidia DGX-1](/assets/images/posts/2017/meetup-nvidia-dgx1.jpeg){: .shadow }
+![Nvidia DGX-1](/assets/img/posts/2017/meetup-nvidia-dgx1.jpeg){: .shadow }
 _Holding a Nvidia DGX-1 in my hands_

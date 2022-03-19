@@ -14,7 +14,7 @@ you can nevertheless use it for your next project right now.
 Check out the [UWPCore Framework on Github](https://github.com/b3nk4n/uwpcore.framework). 
 I developed this framework in course of the last year together with my friend Patrick Mutter.
 
-![UWPCore](/assets/images/posts/2017/uwpcore.png){: .shadow }
+![UWPCore](/assets/img/posts/2017/uwpcore.png){: .shadow }
 _UWPCore Framework logo_
 
 More information about the framework is written down on the landing page of the repository. 

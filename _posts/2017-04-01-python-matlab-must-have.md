@@ -41,7 +41,7 @@ plt.show()
 
 You will then see the results in an interactive window:
 
-![Matplotlib example](/assets/images/posts/2017/matplotlib.png){: .shadow }
+![Matplotlib example](/assets/img/posts/2017/matplotlib.png){: .shadow }
 _Example plot with Matplotlib_
 
 You can also perform multiple `plt.plot()` calls before showing the graphics, in order to stack multiple lines in a

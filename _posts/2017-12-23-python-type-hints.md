@@ -88,13 +88,13 @@ To sum up, type hints help to understand and use functions in Python. Furthermor
 support of your IDE. As an example, [PyCharm](https://www.jetbrains.com/pycharm/) warns you in case you call a function with
 a wrong parameter type:
 
-![Wrong type in PyCharm](/assets/images/posts/2017/py_wrong_type.png){: .shadow }
+![Wrong type in PyCharm](/assets/img/posts/2017/py_wrong_type.png){: .shadow }
 _Type warning in PyCharm_
 
 Moreover, there are many situations where PyCharm is suddenly able to tell you which functions any variable is able to call
 or which properties are offered by an object:
 
-![Python typing in PyCharm](/assets/images/posts/2017/py_typing.png){: .shadow }
+![Python typing in PyCharm](/assets/img/posts/2017/py_typing.png){: .shadow }
 _Python typing IDE support in PyCharm_
 
 After playing around with these type hints, I cannot imagine anymore how I could survive without them.

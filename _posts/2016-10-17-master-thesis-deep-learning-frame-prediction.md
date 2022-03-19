@@ -31,10 +31,10 @@ To assess the model, we used three different datasets with increasing complexity
 Surprisingly, the model also delivered good results when we performed an out-of-domain test using one or three digits (bottom).
 The *ground truth* animation on the **left** is shown in comparison to the *multi-step frame prediction* to the **right**.
 
-![MovingMNIST with 2 digits](/assets/images/posts/2016/mm-anim-2digits.gif)
+![MovingMNIST with 2 digits](/assets/img/posts/2016/mm-anim-2digits.gif)
 _MovingMNIST predicted on proposed Conv2D LSTM model using three digits_
 
-![MovingMNIST with 3 digits](/assets/images/posts/2016/mm-anim-3digits.gif)
+![MovingMNIST with 3 digits](/assets/img/posts/2016/mm-anim-3digits.gif)
 _MovingMNIST predicted on proposed Conv2D LSTM model using three digits_
 
 In a second experiment, we used video game recording of [MsPacman](https://github.com/dyelax/Adversarial_Video_Generation).
@@ -42,7 +42,7 @@ As it can be seen in the prediction example below, our trained 2-layer ConvLSTM 
 several dynamics of the game, such as the movement of Pacman and the ghosts, the blinking of the big dot in the top-right corner,
 as well as es fact that Pacman is eating the dots within the maze.
 
-![MsPacman](/assets/images/posts/2016/pac-anim.gif)
+![MsPacman](/assets/img/posts/2016/pac-anim.gif)
 _MsPacman predicted on proposed Conv2D LSTM model_
 
 In our last experiment, we trained our model on the [UCF-101](http://crcv.ucf.edu/data/UCF101.php) training set.
@@ -51,7 +51,7 @@ movement and rotation, and so on. Like many other solutions, we can notice a blu
 even that we take advantage of perceptual motivated loss terms, such as SSIM or GDL. However, some results look satisfactory
 nonetheless. As an example, the zooming of the camera is captured and correctly continued in the soccer example below.
 
-![UCF-101](/assets/images/posts/2016/ucf-anim.gif)
+![UCF-101](/assets/img/posts/2016/ucf-anim.gif)
 _UCF-101 predicted on proposed Conv2D LSTM model_
 
 Of course, there is much more to tell. But the main intention of this post is to provide a rough idea about what has been done,

@@ -63,7 +63,7 @@ described in this [TensorFlow tutorial](https://www.tensorflow.org/tutorials/dee
 We did not change any of the default values. Consequently, we used a batch size of 128, while each image has a size of 24x24 pixels.
 In contrast, the original CIFAR-10 benchmark uses 32x32 pixel images.
 
-![CIFAR-10](/assets/images/posts/2018/CIFAR10.png){: .shadow }
+![CIFAR-10](/assets/img/posts/2018/CIFAR10.png){: .shadow }
 _Benchmarks using a CNN on the CIFAR-10 dataset_
 
 While executing this model on the **X1 eGPU**, only about 601MB of the VRAM are occupied, while the GPU is utilized by about 85%. 
@@ -83,7 +83,7 @@ because I hope using standard models makes it easier to compare these number wit
 Again, we did not change the default hyperparams. Consequently, we are using images of size 28x28 pixel
 and a batch-size of 64 for 10 epochs, with a validation of 5000 samples every 100 training steps.
 
-![MNIST](/assets/images/posts/2018/MNIST.png){: .shadow }
+![MNIST](/assets/img/posts/2018/MNIST.png){: .shadow }
 _Benchmarks using a CNN on the MNIST dataset_
 
 During training, the 465 MB VRAM of the eGPU was used, while it was utilized by about 81%. Since this benchmark is quite small,
@@ -97,7 +97,7 @@ This script can be found on [GitHub](https://github.com/tensorflow/models/tree/m
 this [whitepaper](http://arxiv.org/abs/1409.2329). It uses a 2-layer LSTM model with 200 hiden units on a challenging task of
 language modeling. The default `small` config is used, which uses a batch-size of 20.
 
-![PTB](/assets/images/posts/2018/MNIST.png){: .shadow }
+![PTB](/assets/img/posts/2018/MNIST.png){: .shadow }
 _Benchmarks using an LSTM on the PTB dataset_
 
 The relative performance is more or less similar to both benchmarks before. Honestly speaking, I actually thought
