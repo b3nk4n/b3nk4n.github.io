@@ -1,5 +1,5 @@
 ---
-title: PowernAPP App Reviews Supports UZH Research Project
+title: powernAPP App Reviews Supports UZH Research Project
 author:
   name: Benjamin Sautermeister
 categories: [Software Engineering, Research]

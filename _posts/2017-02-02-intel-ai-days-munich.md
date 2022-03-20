@@ -8,7 +8,7 @@ image:
   src: /assets/img/posts/2017/intel-ai-days-banner.jpeg
   width: 1000   # in pixels
   height: 400   # in pixels
-  alt: image alternative text
+  alt: Intel AI Days
 pin: false
 toc: false
 ---

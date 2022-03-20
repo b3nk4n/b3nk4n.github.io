@@ -8,7 +8,7 @@ image:
   src: /assets/img/posts/2017/meetup-nvidia-banner.jpeg
   width: 1000   # in pixels
   height: 400   # in pixels
-  alt: image alternative text
+  alt: Nvidia Meetup
 pin: false
 toc: false
 ---

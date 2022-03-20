@@ -36,8 +36,8 @@ In the end, the only limit is your time and creativity.
 |---|:--|
 | ![TUM](/assets/img/logos/tum.png){: w="72" style="min-width: 32px"} | **M.Sc. Informatics** \| Grade **1.2** <br/> **_Technical University of Munich_** <br/> Software Engineering, Machine Learning, Computer Graphics and Vision <br/> Thesis: Deep Learning Approaches to Predict Future Frames in Videos <br/> *Munich, Germany --- 10/2014 – 11/2016* |
 | ![WPI](/assets/img/logos/wpi.png){: w="72" style="min-width: 32px"} | **Exchange Student** \| Grade **A** <br/> _**Worcester Polytechnic Institute** --- Computer Science Department_ <br/> Technical Game Development, Augmented Reality, Software Security, English <br/> *Massachusetts, US --- 08/2013 – 12/2013* |
-| ![HTWG](/assets/img/logos/htwg.png){: w="72" style="min-width: 32px"} | **B.Sc. Applied Computer Science** \| Grade **1.1** <br/> _**HTWG Konstanz University of Applied Sciences**_ <br/> Software Engineering <br> Thesis: Concept and Implementation of Multi-tenant Services for Cloud Platforms <br/> *Constance, DE --- 10/2010 – 08/2014* |
-| ![GSWT](/assets/img/logos/gswt.jpeg){: w="72" style="min-width: 32px"} | **Abitur --- High School Diploma** \| Grade **1.3** \| English Award <br/> _**GSWT Waldshut**_ --- Information Technology Specialization <br/> *Waldshut, DE --- 09/2006 – 07/2009* |
+| ![HTWG](/assets/img/logos/htwg.png){: w="72" style="min-width: 32px"} | **B.Sc. Applied Computer Science** \| Grade **1.1** <br/> _**HTWG Konstanz University of Applied Sciences**_ <br/> Specialized in Software Engineering <br> Thesis: Concept and Implementation of Multi-tenant Services for Cloud Platforms <br/> *Constance, DE --- 10/2010 – 08/2014* |
+| ![GSWT](/assets/img/logos/gswt.jpeg){: w="72" style="min-width: 32px"} | **Abitur --- High School Diploma** \| Grade **1.3** \| English Award <br/> _**GSWT Waldshut**_ --- Information Technology Specialization <br/> *Waldshut-Tiengen, DE --- 09/2006 – 07/2009* |
 
 
 ## Teaching
@@ -52,7 +52,7 @@ In the end, the only limit is your time and creativity.
 
 | ![Microsoft](/assets/img/logos/ms.png){: w="72" style="min-width: 32px"} | **First Price Winner: Christmas App Revolution** <br/> _**Microsoft Germany**_ <br/> Submitted App: powernAPP \| 650k downloads <br/> *Constance, DE --- 01/2014* |
 | ![Microsoft](/assets/img/logos/ms.png){: w="72" style="min-width: 32px"} | **Special Price Winner: App Revolution** <br/> _**Microsoft Germany**_ <br/> Submitted Game: SpacepiXX \| 250k downloads <br/> *Constance, DE --- 05/2013* |
-| ![FES](/assets/img/logos/fes.jpeg){: w="72" style="min-width: 32px"} | **Volunteer Technical Supporter** <br/> _**Friedrich Ebert Foundation**_ <br/> Mailinglist Administration, Guidance and Troubleshooting <br/> *DE --- 04/2012 - 02/2017* |
-| ![FES](/assets/img/logos/fes.jpeg){: w="72" style="min-width: 32px"} | **Scholarship Holder** <br/> _**Friedrich Ebert Foundation**_ <br/> Member of the Internet Work Group <br/> *DE --- 03/2012 – 10/2016* |
+| ![FES](/assets/img/logos/fes.jpeg){: w="72" style="min-width: 32px"} | **Volunteer Technical Supporter** <br/> _**Friedrich Ebert Foundation**_ <br/> Mailinglist Administration, Guidance and Troubleshooting <br/> *Bonn, DE --- 04/2012 - 02/2017* |
+| ![FES](/assets/img/logos/fes.jpeg){: w="72" style="min-width: 32px"} | **Scholarship Holder** <br/> _**Friedrich Ebert Foundation**_ <br/> Member of the Internet Work Group <br/> *Bonn, DE --- 03/2012 – 10/2016* |
 | ![HTWG](/assets/img/logos/htwg.png){: w="72" style="min-width: 32px"} | **Faculty Council and Study Commission Member** <br/> _**HTWG Konstanz University of Applied Sciences**_ <br/> Voted Student Representative <br/> *Constance, DE --- 10/2011 – 08/2013* |
-| ![JugendForscht](/assets/img/logos/jufo.jpeg){: w="72" style="min-width: 32px"} | **Special Prize Winner at Youth Science Competition** <br/> _**Jugend Forscht** --- Mathematics and Computer Science_ <br/> Home Automation System with Custom Built Software and Hardware <br/> *Freiburg im Breisgau, DE --- 03/2009* |
+| ![JugendForscht](/assets/img/logos/jufo.jpeg){: w="72" style="min-width: 32px"} | **Special Prize Winner at Youth Science Competition** <br/> _**Jugend Forscht** --- Mathematics and Computer Science_ <br/> Home Automation System with Custom-built Software and Hardware <br/> *Freiburg im Breisgau, DE --- 03/2009* |
