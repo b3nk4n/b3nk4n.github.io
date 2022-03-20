@@ -4,7 +4,7 @@ author:
   name: Benjamin Sautermeister
 categories: [Software Engineering]
 tags: [java]
-pin: true
+pin: false
 ---
 
 In case you are familiar with Pyhon, I guess you also have heard of [virtualenv](https://virtualenv.pypa.io/). This is a tool to create isolated
