@@ -2,7 +2,7 @@
 title: Action Note Video Reviews
 author:
   name: Benjamin Sautermeister
-categories: [Projects]
+categories: [Projects, Windows]
 tags: [c#, windows phone, uwp, review, action note]
 pin: false
 toc: false

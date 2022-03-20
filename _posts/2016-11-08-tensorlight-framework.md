@@ -2,7 +2,7 @@
 title: TensorLight - A High-Level Framework for TensorFlow Projects
 author:
   name: Benjamin Sautermeister
-categories: [Software Engineering, Projects]
+categories: [Projects, Machine Learning]
 tags: [tensorflow, python, deep learning, framework]
 pin: false
 toc: false
