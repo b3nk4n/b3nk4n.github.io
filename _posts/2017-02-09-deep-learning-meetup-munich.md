@@ -2,7 +2,7 @@
 title: Deep Learning Meetup 2017 Q1 in Munich
 author:
   name: Benjamin Sautermeister
-categories: [Machine Learning]
+categories: [Events, Machine Learning]
 tags: [nvidia, meetup, deep learning]
 image:
   src: /assets/img/posts/2017/meetup-nvidia-banner.jpeg
