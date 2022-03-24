@@ -118,7 +118,7 @@ an app to make setting the napping timer as quick as possible. The idea for
 [powernAPP](http://www.windowsphone.com/s?appid=92740dff-b2e1-4813-b08b-c6429df03356) was born. And with the introduction of
 [Cortana](https://en.wikipedia.org/wiki/Cortana_(virtual_assistant)) and the hype around voice-controlled apps, I found a way to
 set a napping timer without even a single tap: just by using natural language such as _"Power nap for 20 minutes"_ instead.
-Ans was another [hit](https://www.phonearena.com/news/Voice-controlled-powernAPP-for-Windows-Phone-wakes-you-up-when-you-tell-it_id52431).
+And was another [hit](https://www.phonearena.com/news/Voice-controlled-powernAPP-for-Windows-Phone-wakes-you-up-when-you-tell-it_id52431).
 The feedback by users was overwhelming. At some point, I received about 10 email per week from users that asked for feature
 requests or just wanted to share how much they enjoyed my free apps. And on top of that, there have also been hundreds of reviews
 in the Windows Store.
@@ -213,7 +213,7 @@ this was on one side due to quite challenging math exams, it was on the other si
 code. Many of them could not really relate to boring terminal applications which ask for your age, or writing data strcutres such as
 lists or sets. I'm pretty sure most of them would not have given up in case we would have started to write simple 2D games
 within the first two semesters. And from the topic we learned, they should have been able to do so.
-- At least in my point of view, one important skill I learned on this journey is to look at a product from both a technical but stil
+- At least in my point of view, one important skill I learned on this journey is to look at a product from both a technical but still
 relatively neutral or unbiased user perspective. I was in direct conversation with customers over many years, and basically acted in
 all roles such as Product Manager, Customer Success, Software Engineer and Tester. This skill is something I found very useful in my
 professional career. At least I have the feeling that I have a much better sense of good UX, product consistency and spotting bugs
