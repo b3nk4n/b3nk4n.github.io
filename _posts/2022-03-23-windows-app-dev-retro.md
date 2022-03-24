@@ -18,7 +18,7 @@ as an _Indie Window App Developer_:
 ## Intro
 
 About 5 years have passed in the meantime after I submitted my last update to any of my Windows 10 (Mobile) apps.
-This is more or less right after I finished my Master's degree. My focus simply shifted towards other things,
+This is more or less right after I finished my Masters degree. My focus simply shifted towards other things,
 such as work, other side projects such as games for Android using [LibGDX](https://libgdx.com/).
 Or even non-professional things such as hiking, reading criminal novels --- _I really ♥ books from [Jo Nesbø](https://en.wikipedia.org/wiki/Jo_Nesb%C3%B8)_ ---
 or last but not least spending quality time with my wife and friends.
@@ -207,6 +207,17 @@ and effort was for nothing.
 - Keep a close eye on user reviews. Engaging with users via contact form or app store reviews helped to spot bugs,
 deliver features or improvements users really cared about. And helped me to keep my motivation on a high level over
 many years.
+- I can recommend every programming beginner to start with game development. Also for programming lectures at university.
+It makes topic much more exciting. In my Bachelors, about 50% of the students didn't make it till the 3rd semester. While
+this was on one side due to quite challenging math exams, it was on the other side because many of them gave up with learning to
+code. Many of them could not really relate to boring terminal applications which ask for your age, or writing data strcutres such as
+lists or sets. I'm pretty sure most of them would not have given up in case we would have started to write simple 2D games
+within the first two semesters. And from the topic we learned, they should have been able to do so.
+- At least in my point of view, one important skill I learned on this journey is to look at a product from both a technical but stil
+relatively neutral or unbiased user perspective. I was in direct conversation with customers over many years, and basically acted in
+all roles such as Product Manager, Customer Success, Software Engineer and Tester. This skill is something I found very useful in my
+professional career. At least I have the feeling that I have a much better sense of good UX, product consistency and spotting bugs
+compared to the average Software Engineer.
 
 ### The bad
 
