@@ -216,6 +216,8 @@ because you are not able anymore to translate it into all the supported language
 - At some point a started to add ads to some of my apps or games. But I regret doing this. At least regular ad banners really destroy the
 user experience of your app. But I might be a bit biased here.
 - If I could travel back in time, I would have spent more time reading into topics around cross-platform development.
+- It is a bit unfortunate that only a minority of my friends could actually use any of my apps, because most of them have been obviously
+Android or iOS users. However, I'm still pretty sure that I would not have had such a success on these platforms.
 
 
 ## Analytics
