@@ -266,6 +266,47 @@ Action Note's key feature does not work anymore. But still, its average rating i
 Furthermore, when I started with my first game in 2011, I would have never dreamed of ever getting close to
 **about 2.5 million downloads**. And receiving such good reviews by more than 23,000 users.
 
+### Activity since I stopped supporting my apps
+
+After I published my very last app update in early 2017, Microsoft
+[announced end of support](https://docs.microsoft.com/en-us/lifecycle/announcements/windows-10-mobile-end-of-support)
+for Windows 10 Mobile in December 2018. And finally then
+[ended its support](https://docs.microsoft.com/en-us/lifecycle/announcements/office-apps-windows-phones-end-of-support)
+one year later. So I thought it would be interesting to see how this influenced things such as downloads or activity
+in the Windows Phone store. This is shown in the following images.
+
+As a first example, I exported the data since around 2016 from Microsoft Partner Center. Unfortunately, no data before
+that could be exported.
+
+![Photo Marker Downloads](/assets/img/posts/2022/photo-marker-downloads.png){: .shadow }
+_Photo Marker cumulative downloads since 2016_
+
+![Photo Marker Store Activity](/assets/img/posts/2022/photo-marker-store-activity.png){: .shadow }
+_Photo Marker store activity since 2016_
+
+Taking Photo Marker as an example, my most popular app regarding total app downloads, you can clearly see that app downloads
+started to stagnate in mid 2018. Starting with the announcment for end of support for Windows 10 Mobile, also the store traffic
+dropped down to an insignificant amount.
+
+![powernAPP Downloads](/assets/img/posts/2022/powernapp-downloads.png){: .shadow }
+_powernAPP cumulative downloads since 2016_
+
+![powernAPP Store Activity](/assets/img/posts/2022/powernapp-store-activity.png){: .shadow }
+_powernAPP store activity since 2016_
+
+Secondly, the same picture repeats for powernAPP. With the only difference that the store traffic already converged to zero
+about a year earlier. This app was first published in December 2013 and already more than 4 years old at that time.
+So no big surprises.
+
+![Action Note Downloads](/assets/img/posts/2022/action-note-downloads.png){: .shadow }
+_Action Note cumulative downloads since 2016_
+
+![Action Note Store Activity](/assets/img/posts/2022/action-note-store-activity.png){: .shadow }
+_Action Note store activity since 2016_
+
+Finally, let's use Action Note as a second example. This app is avaialbe in both Windows 10 Mobile and PC, and therefore
+a bit different compared to both apps above. Here we can see that app downloads are still happening. Even though
+there does not seem to be any significant store traffic anymore since mid of 2020.
 
 ### In-app purchases and premiums
 
