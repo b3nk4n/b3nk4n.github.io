@@ -3,7 +3,7 @@ title: UWPCore - A Development Acceleration Framework for the Universal Windows 
 author:
   name: Benjamin Sautermeister
 categories: [Projects, Windows]
-tags: [c#, windows phone, uwp, framework]
+tags: [windows phone, uwp, framework, csharp]
 pin: false
 toc: false
 ---

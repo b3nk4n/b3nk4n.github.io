@@ -3,7 +3,7 @@ title: powernAPP App Reviews Supports UZH Research Project
 author:
   name: Benjamin Sautermeister
 categories: [Software Engineering, Research]
-tags: [c#, windows phone, uwp, bug]
+tags: [windows phone, uwp, csharp, bug]
 pin: false
 toc: false
 ---

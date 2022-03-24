@@ -10,7 +10,7 @@ pin: true
 This article is a follow-up on previous posts about reaching individual milestones on my journey
 as an _Indie Window App Developer_:
 
-- [100k Downloads in Windows Phone Store](posts/100k-downloads-windows-store-/) --- 05/2013
+- [100k Downloads in Windows Phone Store](/posts/100k-downloads-windows-store-/) --- 05/2013
 - [250k Downloads in Windows Phone Store](/posts/250k-downloads-windows-store/) --- 10/2013
 - [500k Downloads in Windows Phone Store](/posts/500k-downloads-windows-store/) --- 09/2014
 - [1 Millionen Downloads in Windows App Store](/posts/one-million-downloads-windows-store/) --- 05/2015
