@@ -13,6 +13,6 @@ A few days ago, my first Windows 10 app [Daily Focus](https://www.microsoft.com/
 received the ROYAL badge, which is the second highest level.
 Not bad I would say, because this app was actually just meant for practice.
 
-![Action Center Cursor](/assets/img/posts/2015/ROYAL-AdDuplex.png)
+![Action Center Cursor](/assets/img/posts/2015/ROYAL-AdDuplex.png){: .shadow }
 _ROYAL AdDuplex HERO APPS badge_
 

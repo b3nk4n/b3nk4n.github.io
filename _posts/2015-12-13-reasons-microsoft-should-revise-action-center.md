@@ -22,7 +22,7 @@ Hopefully this is contributing to improve the Action Center in the (hopefully) n
 **Description:** The new adaptive tiles of Windows 10 are really awesome. But whenever a text input field is used,
 the Action Center’s UI changes the font's foreground color for whatever reason.
 
-![Action Center Glitch](/assets/img/posts/2015/multi-line-glitch-empty.png)
+![Action Center Glitch](/assets/img/posts/2015/multi-line-glitch-empty.png){: .shadow }
 _Multi-line input in Action Center with unexpectedly inverted font color_
 
 ### 2. The input field’s cursor of an adaptive tile is obviously misplaced
@@ -33,7 +33,7 @@ _Multi-line input in Action Center with unexpectedly inverted font color_
 and shifted to the top left. I’m not sure why it has not been fixed since the release of Windows 10,
 because it is so obvious.
 
-![Action Center Cursor](/assets/img/posts/2015/misplaced-cursor.png)
+![Action Center Cursor](/assets/img/posts/2015/misplaced-cursor.png){: .shadow }
 _Misplaced cursor in Action Center_
 
 ### 3. An expanded toast sometimes collapses unexpectedly
@@ -53,7 +53,7 @@ That tiny bug harms the usability a lot.
 all platforms should behave the same at least. While Windows 10 for PC/Tablet supports line wrapping for
 the placeholder text (by using `\r`), this is **not** possible on Windows 10 Mobile.
 
-![Action Center Cursor](/assets/img/posts/2015/multi-line-placeholder.png)
+![Action Center Cursor](/assets/img/posts/2015/multi-line-placeholder.png){: .shadow }
 _Multi-line placeholder in Action Center_
 
 ### 5. Input field’s line wrap of an adaptive tile differs on both platforms
@@ -76,7 +76,7 @@ removed a single toast message or all of them. Either by using the _“Clear all
 **Status:** Microsoft already commented on that in my [MSDN thread](https://social.msdn.microsoft.com/Forums/windowsapps/de-DE/ca1c3504-af74-4d22-931e-8d3ca7c8c151/toasthistorychangedtype-is-always-removed-when-doing-changed-in-the-action-center?forum=wpdevelop).
 They confirmed the issue and are going to fix it.
 
-![Action Center Cursor](/assets/img/posts/2015/action-center-clear.png)
+![Action Center Cursor](/assets/img/posts/2015/action-center-clear.png){: .shadow }
 _Clearing all notes in Action Center_
 
 ### 7. The removal of a toast notification does not tell the background task which toast ID was removed

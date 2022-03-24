@@ -28,7 +28,7 @@ Here are some **fun facts** about our hike:
 - **Energy consumption:** about 3,800 kcals
 
 ![Ortstock summit](/assets/img/posts/2012/ortstock-summit.jpeg){: .shadow }
-_Ortstock's summit cross
+_Ortstock's summit cross_
 
 This was honestly my first hike in the [Swiss Alps](https://en.wikipedia.org/wiki/Swiss_Alps).
 And it was a really amazing experience. Spending some time in such an idyllic and untouched nature

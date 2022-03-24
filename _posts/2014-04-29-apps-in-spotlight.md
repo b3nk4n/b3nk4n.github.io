@@ -11,7 +11,7 @@ Each Windows Phone from Telekom comes with a few apps pre-installed. One of them
 a few apps especially for the German audience every week. By coincidence, I noticed that Telekom is listing
 two of my apps in the Spotlight app under the **Top Apps** category.
 
-![Telekom Spotlight](/assets/img/posts/2014/telekom-spotlight.png)
+![Telekom Spotlight](/assets/img/posts/2014/telekom-spotlight.png){: .shadow }
 _SpaceScribble (left) and powernAPP (right) in Telekom Spotlight app_
 
 Translating the short description provided by the Telekom Spotlight authors:

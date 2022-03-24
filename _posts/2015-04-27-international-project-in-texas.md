@@ -10,7 +10,7 @@ pin: false
 I was lucky enough this year to get accepted to participate in the international project of the Android programming
 practicle course of _Technical University of Munich_ in partnership with _Texas A&M University_ in College Station.
 
-![Road to Houston](/assets/img/posts/2015/houston.jpeg)
+![Road to Houston](/assets/img/posts/2015/houston.jpeg){: .shadow }
 _Road to Houston_
 
 Furthermore, as this project was about developing a showcase of a space robot powered by NASA certified hardware
@@ -20,14 +20,14 @@ we also had the please to get invited to the _NASA Johnson Space Center_.
 ![Houston Space Center](/assets/img/posts/2015/houston-space-center.jpeg)
 _Space Shuttle at Houston Space Center_
 
-![Saturn V](/assets/img/posts/2015/saturn-v.jpeg)
+![Saturn V](/assets/img/posts/2015/saturn-v.jpeg){: .shadow }
 _Lower stages of a Saturn V rocket_
 
 After we completed our project work, we had a few days of spare time left to do a short road tip to Dallas, Fort Worth
 and Austin. Especially the [Hamilton Pool Preserve](https://en.wikipedia.org/wiki/Hamilton_Pool_Preserve) has been
 an amazing place to see.
 
-![Hamilton Pool](/assets/img/posts/2015/hamilton-pool.jpeg)
+![Hamilton Pool](/assets/img/posts/2015/hamilton-pool.jpeg){: .shadow }
 _Hamilton Pool before we headed further to Austin_
 
 But I want to keep myself short here, because a colleague who joined that trip as well wrote a very extensive post named

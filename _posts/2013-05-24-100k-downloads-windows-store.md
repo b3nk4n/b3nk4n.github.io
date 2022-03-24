@@ -9,7 +9,7 @@ pin: false
 
 My apps and games in the Windows Phone store reached a first milestone of **100,000** downloads.
 
-![100k Downloads](/assets/img/posts/2013/100k-downloads.png)
+![100k Downloads](/assets/img/posts/2013/100k-downloads.png){: .shadow }
 _100k downloads in Windows Phone store_
 
 The peaks in the chart above before 2013 are easy to explain. Whenever a new app was released, this app was then listed

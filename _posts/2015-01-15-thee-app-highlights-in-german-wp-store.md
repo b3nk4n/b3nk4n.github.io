@@ -12,7 +12,7 @@ These highlights are different depending on the region, and are strongly influen
 In the last few weeks, my apps appear recently at least in the German Windows Phone store.
 This has a significant positive impact in the download numbers for each of them.
 
-![1 Million Downloads](/assets/img/posts/2015/wp-app-highlights.png)
+![App Highlights in Windows Store](/assets/img/posts/2015/wp-app-highlights.png){: .shadow }
 _Windows Phone Store App Highlights_
 
 Yesterday, I noticed by coincidence that probably for the very first time, three out of these twenty apps are from me.

@@ -12,7 +12,7 @@ made it to the very top of the [Health & Fitness](http://www.windowsphone.com/de
 category of the Windows Phone store. Even getting listed before _Runtastic_. And that at least in Germany,
 but potentially even a few other countries.
 
-![powernAPP in Windows Phone Store](/assets/img/posts/2014/powernapp-top-health-fitness.png)
+![powernAPP in Windows Phone Store](/assets/img/posts/2014/powernapp-top-health-fitness.png){: .shadow }
 _Top rated powernAPP in Windows Phone Store highlights_
 
 Let's see for how long it can keep this pole position…

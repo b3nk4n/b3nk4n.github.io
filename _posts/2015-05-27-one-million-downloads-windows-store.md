@@ -1,22 +1,22 @@
 ---
-title: 1 Millionen Downloads in Windows Phone Store
+title: 1 Millionen Downloads in Windows App Store
 author:
   name: Benjamin Sautermeister
 categories: [Projects, Analytics]
 tags: [windows, windows phone, downloads]
-pin: true
+pin: false
 ---
 
 Last weekend, my apps overall downloads in the Windows Phone store reached the milestone of **one million**.
 Honestly speaking, I would never had dreamed of coming even close…
 
-![1 Million Downloads](/assets/img/posts/2015/one-mio-downloads.png)
+![1 Million Downloads](/assets/img/posts/2015/one-mio-downloads.png){: .shadow }
 _Thank you for 1 million downloads_
 
 This number is composed out of the overal sum of my 20 apps in the Windows Phone store.
 I did not include the downloads from the Windows 8 store. But these numbers are negligible anyways.
 
-![Download Stats](/assets/img/posts/2015/one-mio-download-stats.png)
+![Download Stats](/assets/img/posts/2015/one-mio-download-stats.png){: .shadow }
 _Monthly (black) and accumulative (blue) downloads_
 
 Worth mentioning is the fact that my top seven apps contribute 90% of the overall downloads.

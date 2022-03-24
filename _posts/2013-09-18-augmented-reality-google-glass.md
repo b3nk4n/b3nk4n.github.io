@@ -12,7 +12,7 @@ that was actually meant for Master's students about [Augmented Reality](https://
 In the second lecture, our professor entered the room wearing a [Google Glass](https://en.wikipedia.org/wiki/Google_Glass).
 Turns out he was one of the few selected people outside of Google to do Beta testing in real life.
 
-![Google Glass](/assets/img/posts/2013/bsautermeister-google-glass.jpeg)
+![Google Glass](/assets/img/posts/2013/bsautermeister-google-glass.jpeg){: .shadow }
 _Wearing an early version of Google Glass_
 
 There are pleanty of [videos](https://www.youtube.com/watch?v=F_DsUl_vqvo) out there to show the vision behind Google Glass.

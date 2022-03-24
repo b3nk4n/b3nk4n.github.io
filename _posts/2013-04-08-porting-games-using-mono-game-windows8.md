@@ -23,7 +23,7 @@ I honestly just started a few days ago. But so far, I can say that things are wo
 about 2 hours to have a running version of [VaderpiXX](http://windowsphone.com/s?appId=ee290c98-b70f-4e81-95b8-f8cc4c7947d0)
 running on my Windows 8 laptop.
 
-![VaderpiXX with MonoGame](/assets/img/posts/2013/vaderpixx-monogame.jpeg)
+![VaderpiXX with MonoGame](/assets/img/posts/2013/vaderpixx-monogame.jpeg){: .shadow }
 _VaderpiXX running with MonoGame on my X220 Windows 8 laptop_
 
 Of course, the devil is in the details. That game was both a touch and accelerometer controlled game. And the latter is

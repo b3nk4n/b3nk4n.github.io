@@ -9,7 +9,7 @@ pin: false
 
 This weekend, the overall downloads of my apps and games in the Windows Phone store reached the milestone of **half a million**.
 
-![500k Downloads](/assets/img/posts/2014/500k-downloads.png)
+![500k Downloads](/assets/img/posts/2014/500k-downloads.png){: .shadow }
 _500k downloads in Dev Center app_
 
 In case you are interested in more details, the following table shows a few more stats:
