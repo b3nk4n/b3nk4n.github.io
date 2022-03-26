@@ -1,7 +1,9 @@
 ---
 title: About
+layout: simple-toc-page
 icon: fas fa-user
 order: 1
+toc: true
 ---
 
 A passionate technology enthusiast who enjoys dealing with various challenges in the field of Software Engineering,

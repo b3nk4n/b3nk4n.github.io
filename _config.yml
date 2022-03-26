@@ -44,8 +44,8 @@ social:
   email: bkan@outlook.de             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/b3nk4n      # change to your twitter homepage
     - https://github.com/b3nk4n       # change to your github homepage
+    - https://twitter.com/b3nk4n      # change to your twitter homepage
     - https://www.facebook.com/b3nk4n
     - https://www.linkedin.com/in/bkan
 
@@ -72,7 +72,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode: light  # [light|dark] => we prefer light due to black text used in transparent PNG images on the research page
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
