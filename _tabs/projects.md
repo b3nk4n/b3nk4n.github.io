@@ -7,6 +7,6 @@ order: 2
 toc: true
 ---
 
-> This page is still under construction. But in the meantime, you can find most of my projects on my [GitHub](https://github.com/b3nk4n).
+> So empty here? Well, this page is still under construction. In the meantime, you can find most projects on my [<i class="fab fa-github"></i> GitHub](https://github.com/b3nk4n).
 {: .prompt-info }
 

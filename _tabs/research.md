@@ -9,8 +9,8 @@ toc: true
 ## Frame Prediction -- Beyond a Video with Deep Learning
 
 This research project has been developed in <i class="fab fa-python"></i> Python using [TensorFlow](https://www.tensorflow.org/),
-[NumPy](http://www.numpy.org/) and my high-level framework [TensorLight](https://github.com/bsautermeister/tensorlight).
-The code is available as open source in my [<i class="fab fa-github"></i> GitHub/imseq](https://github.com/bsautermeister/imseq) repository.
+[NumPy](http://www.numpy.org/) and my high-level framework [TensorLight](https://github.com/b3nk4n/tensorlight).
+The code is available as open source in my [<i class="fab fa-github"></i> GitHub/imseq](https://github.com/b3nk4n/imseq) repository.
 Furthermore, in case you would like to read my [<i class="fas fa-file-pdf"></i> Master's thesis](/assets/docs/2016/msc_thesis_bsautermeister.pdf) in detail,
 then please feel free to check it out. Otherwise, the following sections should give you a brief summary
 of the most important bits.
