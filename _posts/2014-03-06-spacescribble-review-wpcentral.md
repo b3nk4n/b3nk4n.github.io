@@ -4,7 +4,7 @@ author:
   name: Benjamin Sautermeister
 categories: [Projects, Windows]
 tags: [windows, windows phone, game dev, review]
-pin: true
+pin: false
 ---
 
 Today, I noticed a significant spike in the number of downloads for SpaceScribble.
