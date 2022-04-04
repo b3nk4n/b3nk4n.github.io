@@ -24,7 +24,7 @@ protected override void Initialize()
     graphics.IsFullScreen = true;
     graphics.PreferredBackBufferHeight = 480;
     graphics.PreferredBackBufferWidth = 800;
-    // ...
+    // …
     graphics.ApplyChanges();
     ApplicationViewChanged += Game_ApplicationViewChanged;
 

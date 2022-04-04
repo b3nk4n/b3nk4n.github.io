@@ -139,7 +139,7 @@ override void doGenerate(Resource resource, IFileSystemAccess fsa) {
             e.fullyQualifiedName.toString("/") + ".java",
             e.compileInterface)
     }
-    // ...
+    // …
 }
 
 def compileInterface(Interface iface)'''

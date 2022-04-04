@@ -71,7 +71,7 @@ if __name__ == '__main__':
 ```
 {: file='subparsers_example.py'}
 
-This adds a single sub-command called `command` that has one optional `--param` parameter. Using the `parser.set_defaults(...)`
+This adds a single sub-command called `command` that has one optional `--param` parameter. Using the `parser.set_defaults(…)`
 on the root parser, we define that the help page is printed when no command is given at all. Furthermore, we also define a
 `--verbose` parameter, which needs to be specified **before** the command. Consequently, a usage example could look like the
 following.
