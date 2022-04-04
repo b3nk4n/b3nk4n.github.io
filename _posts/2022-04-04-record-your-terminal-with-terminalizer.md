@@ -35,6 +35,10 @@ $ vim ~/.terminalizer/config.yaml
 
 Within the config file, set the [command](https://github.com/faressoft/terminalizer#recording) from `null` to `zsh`.
 
+> Because the `ZSH_THEME="agnoster"` that I usually use has a minor rendering glitch. In the example above,
+> the more simplistic theme `ZSH_THEME="robbyrussell"` is used instead.
+{: .prompt-tip }
+
 ## Usage
 
 The commands for basic usage are explained in detailed in its [docs](https://github.com/faressoft/terminalizer#usage).
