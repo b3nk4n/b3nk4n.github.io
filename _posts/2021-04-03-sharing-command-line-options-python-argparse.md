@@ -39,9 +39,9 @@ $ python argparse_example.py --param 128
 
 ## Introducing subparsers
 
-I recently used [subparsers](add_subparsers) for the first time that might not be very commonly known.
-Many CLI tool's split up their functionality into a number of sub-commands. For instance, the `git` program can
-invoke sub-commands like `git init`, `git clone`, or `git pull`. And this is exactly where subparsers come in handy.
+I recently used [subparsers](https://docs.python.org/3/library/argparse.html#sub-commands) for the first time that might not be
+very commonly known. Many CLI tool's split up their functionality into a number of sub-commands. For instance, the `git` program
+can invoke sub-commands like `git init`, `git clone`, or `git pull`. And this is exactly where subparsers come in handy.
 
 ### Basic usage of subparsers
 
