@@ -21,7 +21,8 @@ In the end, the only limit is your time and creativity.
 ## Working Experience
 
 |---|:--|
-| ![IBM](/assets/img/logos/ibm.png){: w="72" style="min-width: 32px"} | **Lead Software Engineering Professional** <br/> _**IBM Germany Research & Development GmbH**_ <br/> Watson AIOps / Hybrid Cloud <br/> *Munich, DE --- since 01/2022* |
+| ![IBM](/assets/img/logos/ibm-color.png){: w="72" style="min-width: 32px"} | **Lead Software Engineering Professional** <br/> _**IBM Silicon Valley Lab**_ <br/> IBM Observability by Instana -- Team Issue Detection <br/> *San José, CA --- since 04/2023* |
+| ![IBM](/assets/img/logos/ibm.png){: w="72" style="min-width: 32px"} | **Lead Software Engineering Professional** <br/> _**IBM Germany Research & Development GmbH**_ <br/> IBM Observability by Instana -- Team Alerting <br/> *Munich, DE --- 01/2022 - 03/2023* |
 | ![Instana](/assets/img/logos/instana-ibm.png){: w="72" style="min-width: 32px"} | **Lead Software Engineer** <br/> _**Instana GmbH** -- an IBM Company_ <br/> Anomaly Detection and Alerting <br/> *Munich, DE --- 10/2021 - 12/2021* |
 | ![Instana](/assets/img/logos/instana.png){: w="72" style="min-width: 32px"} | **Senior Software Engineer** <br/> _**Instana GmbH**_ <br/> Issue Detection and Alerting <br/> *Munich, DE --- 10/2019 - 10/2021* |
 | ![Instana](/assets/img/logos/instana-stan.png){: w="72" style="min-width: 32px"} | **Machine Learning Engineer** <br/> _**Instana GmbH**_ <br/> Alerting and Automated RCA <br/> *Munich, DE --- 02/2018 - 10/2019* |
