@@ -13,7 +13,7 @@ as an _Indie Window App Developer_:
 - [100k Downloads in Windows Phone Store](/posts/100k-downloads-windows-store/) --- 05/2013
 - [250k Downloads in Windows Phone Store](/posts/250k-downloads-windows-store/) --- 10/2013
 - [500k Downloads in Windows Phone Store](/posts/500k-downloads-windows-store/) --- 09/2014
-- [1 Millionen Downloads in Windows App Store](/posts/one-million-downloads-windows-store/) --- 05/2015
+- [1 Million Downloads in Windows App Store](/posts/one-million-downloads-windows-store/) --- 05/2015
 
 ## Intro
 
@@ -24,7 +24,7 @@ Or even non-professional things such as hiking, reading criminal novels --- _I r
 or last but not least spending quality time with my wife and friends.
 
 Anyways, a lot happened in the meantime. And I'm not talking about the pandemic or the war in Ukraine. I'm referring to much less
-import things such as the fact that [Microsoft ended support for Windows 10 Mobile](https://support.microsoft.com/en-us/windows/windows-10-mobile-end-of-support-faq-8c2dd1cf-a571-00f0-0881-bb83926d05c5)
+important things such as the fact that [Microsoft ended support for Windows 10 Mobile](https://support.microsoft.com/en-us/windows/windows-10-mobile-end-of-support-faq-8c2dd1cf-a571-00f0-0881-bb83926d05c5)
 end of 2019. And that was my main target platform as a developer back then. With the exception of [Action Note](https://www.microsoft.com/de-de/p/action-note/9nblggh6c03h?ocid=badge&rtc=1#activetab=pivot:overviewtab),
 Windows 8 and later Windows 10 was just secondary.
 
@@ -67,7 +67,7 @@ Anyways, I think somewhen in late 2010 or early 2011, I participated at a confer
 [Microsoft Shape](https://www.netzwoche.ch/news/2014-01-31/shape-konferenz-ganz-im-zeichen-der-apps) in Zürich. And within
 each bigger break, there have been quizzes with the audience. Actual exactly three in total. The moderator just dropped
 a question into the about 400+ people large audience. And the first one shouting out the right answer got a prize. And guess
-what the prizes has been? Exaclty, an [LG Optimus 7](https://en.wikipedia.org/wiki/LG_Optimus_7), one of the first
+what the prizes has been? Exactly, an [LG Optimus 7](https://en.wikipedia.org/wiki/LG_Optimus_7), one of the first
 Windows Phone 7 device on the market. And if I remember correctly, such devices have been launched just a few weeks before
 that conference. And who was lucky (or smart) enough to walk home with **two** of these WP7 devices? **Me!** ㋡
 
@@ -80,7 +80,7 @@ Consequently, I started to put most of my time outside of my lectures into my ow
 about [XNA](https://en.wikipedia.org/wiki/Microsoft_XNA), which taught the basics of game development using the example of
 a very primitive space shooter. Guided with the book, I implemented it. Then extended it a little bit. And was hooked.
 Out of nowhere, I had so many ideas how to extend that game. Different types of weapons and enemies. Particle effects. Creating
-my own pixel art. Online leaderboards. Accelerometer controls. I has such a rush of adrenalin, that worked on my project till 8am
+my own pixel art. Online leaderboards. Accelerometer controls. I had such a rush of adrenalin, that worked on my project till 8am
 in the morning, then went to my lectures and finally took a power nap during the lunch break to recharge. Just a few weeks later,
 my first game [SpacepiXX](http://windowsphone.com/s?appId=cbe0dfa7-2879-4c2c-b7c6-3798781fba16) was born.
 
@@ -151,7 +151,7 @@ Especially because it was not just a _0.99$_ IAP, but my only every premium feat
 _Action Note review by Windows Central in December 2015_
 
 But users loved it. Not just Action Note. The positive feedback from users and their constructive support was overwhelming.
-They asked for **internationalization**, but I did not want to spend money on a translator. So users started to volunteer to help
+They asked for **internationalization**, but I did not want to spend money on a translator. So, users started to volunteer to help
 me with _i18n_. And ended up with apps that have been available in 19 languages:
 
 - Arabic
@@ -210,7 +210,7 @@ many years.
 - I can recommend every programming beginner to start with game development. Also for programming lectures at university.
 It makes topic much more exciting. In my Bachelors, about 50% of the students didn't make it till the 3rd semester. While
 this was on one side due to quite challenging math exams, it was on the other side because many of them gave up with learning to
-code. Many of them could not really relate to boring terminal applications which ask for your age, or writing data strcutres such as
+code. Many of them could not really relate to boring terminal applications which ask for your age, or writing data strucutres such as
 lists or sets. I'm pretty sure most of them would not have given up in case we would have started to write simple 2D games
 within the first two semesters. And from the topic we learned, they should have been able to do so.
 - At least in my point of view, one important skill I learned on this journey is to look at a product from both a technical but still
@@ -281,9 +281,9 @@ Furthermore, when I started with my first game in 2011, I would have never dream
 
 After I published my very last app update in early 2017, Microsoft
 [announced end of support](https://docs.microsoft.com/en-us/lifecycle/announcements/windows-10-mobile-end-of-support)
-for Windows 10 Mobile in December 2018. And finally then
+for Windows 10 Mobile in December 2018. And finally
 [ended its support](https://docs.microsoft.com/en-us/lifecycle/announcements/office-apps-windows-phones-end-of-support)
-one year later. So I thought it would be interesting to see how this influenced things such as downloads or activity
+one year later. I thought it would be interesting to see how this influenced things such as downloads or activity
 in the Windows Phone store. This is shown in the following images.
 
 As a first example, I exported the data since around 2016 from Microsoft Partner Center. Unfortunately, no data before
@@ -296,7 +296,7 @@ _Photo Marker cumulative downloads since 2016_
 _Photo Marker store activity since 2016_
 
 Taking Photo Marker as an example, my most popular app regarding total app downloads, you can clearly see that app downloads
-started to stagnate in mid 2018. Starting with the announcment for end of support for Windows 10 Mobile, also the store traffic
+started to stagnate in mid 2018. Starting with the announcement for end of support for Windows 10 Mobile, also the store traffic
 dropped down to an insignificant amount.
 
 ![powernAPP Downloads](/assets/img/posts/2022/powernapp-downloads.png){: .shadow }
@@ -315,7 +315,7 @@ _Action Note cumulative downloads since 2016_
 ![Action Note Store Activity](/assets/img/posts/2022/action-note-store-activity.png){: .shadow }
 _Action Note store activity since 2016_
 
-Finally, let's use Action Note as a second example. This app is avaialbe in both Windows 10 Mobile and PC, and therefore
+Finally, let's use Action Note as a second example. This app is availalbe in both Windows 10 Mobile and PC, and therefore
 a bit different compared to both apps above. Here we can see that app downloads are still happening. Even though
 there does not seem to be any significant store traffic anymore since mid of 2020.
 
