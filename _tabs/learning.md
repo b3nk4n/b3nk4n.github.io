@@ -25,6 +25,7 @@ The following list of book only contains the titles where I read the full book f
 
 |  | Book title |
 |:-|:-----|
+| ![Book Cover](https://learning.oreilly.com/library/cover/9781098113391/250w/){: w="72" style="min-width: 32px"} | [Efficient Linux at the Command Line](https://www.oreilly.com/library/view/efficient-linux-at/9781098113391/) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781492058328/250w/){: w="72" style="min-width: 32px"} | [gRPC: Up and Running](https://www.oreilly.com/library/view/grpc-up-and/9781492058328/) |
 | ![Book Cover](https://images.manning.com/360/480/resize/book/d/bd891a6-9579-45fd-b725-30597d3fa009/Clingan-KNM-HI.png){: w="72" style="min-width: 32px"} | [Kubernetes Native Microservices with Quarkus and MicroProfile](https://www.manning.com/books/kubernetes-native-microservices) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781098131067/250w/){: w="72" style="min-width: 32px"} | [Learning GitHub Actions](https://www.oreilly.com/library/view/learning-github-actions/9781098131067/) |
