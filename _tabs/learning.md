@@ -125,12 +125,19 @@ The following list of book only contains the titles where I read the full book f
 |:-|:-----|
 | ![Book Cover](https://content.packt.com/B03394/cover_image_small.jpg){: w="72" style="min-width: 32px"} | [XNA 4.0 Game Development by Example](https://www.packtpub.com/product/xna-40-game-development-by-example-beginners-guide/9781849690669) |
 
+### 2010
+
+|  | Book title |
+|:-|:-----|
+| ![Book Cover](https://learning.oreilly.com/library/cover/0201616416/250w/){: w="72" style="min-width: 32px"} | [Extreme Programming Explained](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/) |
+
 ### 2009
 
 |  | Book title |
 |:-|:-----|
 | ![Book Cover](https://pictures.abebooks.com/isbn/9783836211086-us.jpg){: w="72" style="min-width: 32px"} | [Windows Presentation Foundation](https://www.abebooks.com/9783836211086/Windows-Presentation-Foundation-umfassende-Handbuch-3836211084/plp) |
 | ![Book Cover](https://pictures.abebooks.com/inventory/md/md30089881012.jpg){: w="72" style="min-width: 32px"} | [Einstieg in Visual C# 2010](https://www.abebooks.com/servlet/BookDetailsPL?bi=30089881012) |
+| ![Book Cover](https://learning.oreilly.com/library/cover/0596007124/250w/){: w="72" style="min-width: 32px"} | [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/) |
 
 ### 2008
 
