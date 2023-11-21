@@ -25,6 +25,8 @@ The following list of book only contains the titles where I read the full book f
 
 |  | Book title |
 |:-|:-----|
+| ![Book Cover](https://learning.oreilly.com/covers/urn:orm:book:9781098149239/400w/){: w="72" style="min-width: 32px"} | [Hands-On Generative AI with Transformers and Diffusion Models](https://learning.oreilly.com/library/view/hands-on-generative-ai/9781098149239/) (Early Release) |
+| ![Book Cover](https://learning.oreilly.com/covers/urn:orm:book:9781098149338/400w/){: w="72" style="min-width: 32px"} | [Optimizing Cloud Native Java](https://learning.oreilly.com/library/view/optimizing-cloud-native/9781098149338/) (2nd Early Release) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781098136789/250w/){: w="72" style="min-width: 32px"} | [Natural Language Processing with Transformers](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781098113391/250w/){: w="72" style="min-width: 32px"} | [Efficient Linux at the Command Line](https://www.oreilly.com/library/view/efficient-linux-at/9781098113391/) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781492058328/250w/){: w="72" style="min-width: 32px"} | [gRPC: Up and Running](https://www.oreilly.com/library/view/grpc-up-and/9781492058328/) |
@@ -67,7 +69,7 @@ The following list of book only contains the titles where I read the full book f
 
 |  | Book title |
 |:-|:-----|
-| ![Book Cover](https://learning.oreilly.com/library/cover/9781492029496/250w/){: w="72" style="min-width: 32px"} | [The Site Reliability Workbook (Part 1 only)](https://www.oreilly.com/library/view/the-site-reliability/9781492029496) |
+| ![Book Cover](https://learning.oreilly.com/library/cover/9781492029496/250w/){: w="72" style="min-width: 32px"} | [The Site Reliability Workbook](https://www.oreilly.com/library/view/the-site-reliability/9781492029496) (Part 1y) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781491950340/250w/){: w="72" style="min-width: 32px"} | [Building Microservices](https://www.oreilly.com/library/view/building-microservices/9781491950340) |
 
 ### 2019
