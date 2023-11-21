@@ -64,7 +64,7 @@ In the end, the only limit is your time and creativity.
 
 ## Special Achievements
 
-| ![IBM](/assets/img/logos/ibm-color.png){: w="72" style="min-width: 32px"} | **Outstanding Technical Achievement Award winner** <br/> _**IBM**_ <br/> For contributions with very positive financial implications <br/> *San José, CA, USA --- 11/2023* |
+| ![IBM](/assets/img/logos/ibm-color.png){: w="72" style="min-width: 32px"} | **Winnder of Outstanding Technical Achievement Award** <br/> _**IBM Automation**_ <br/> For contributions with very positive financial implications <br/> *San José, CA, USA --- 11/2023* |
 | ![Microsoft](/assets/img/logos/ms.png){: w="72" style="min-width: 32px"} | **First Price Winner: Christmas App Revolution** <br/> _**Microsoft Germany**_ <br/> Submitted App: powernAPP \| 650k downloads <br/> *Constance, DE --- 01/2014* |
 | ![Microsoft](/assets/img/logos/ms.png){: w="72" style="min-width: 32px"} | **Special Price Winner: App Revolution** <br/> _**Microsoft Germany**_ <br/> Submitted Game: SpacepiXX \| 250k downloads <br/> *Constance, DE --- 05/2013* |
 | ![FES](/assets/img/logos/fes.jpeg){: w="72" style="min-width: 32px"} | **Volunteer Technical Supporter** <br/> _**Friedrich Ebert Foundation**_ <br/> Mailinglist Administration, Guidance and Troubleshooting <br/> *Bonn, DE --- 04/2012 - 02/2017* |
