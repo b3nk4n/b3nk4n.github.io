@@ -25,6 +25,7 @@ The following list of book only contains the titles where I read the full book f
 
 |  | Book title |
 |:-|:-----|
+| ![Book Cover](https://learning.oreilly.com/covers/urn:orm:book:9781098140533/400w/){: w="72" style="min-width: 32px"} | [Communication Patterns](https://learning.oreilly.com/library/view/communication-patterns/9781098140533/) |
 | ![Book Cover](https://learning.oreilly.com/covers/urn:orm:book:9781098149239/400w/){: w="72" style="min-width: 32px"} | [Hands-On Generative AI with Transformers and Diffusion Models](https://learning.oreilly.com/library/view/hands-on-generative-ai/9781098149239/) (Early Release) |
 | ![Book Cover](https://learning.oreilly.com/covers/urn:orm:book:9781098149338/400w/){: w="72" style="min-width: 32px"} | [Optimizing Cloud Native Java](https://learning.oreilly.com/library/view/optimizing-cloud-native/9781098149338/) (2nd Early Release) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781098136789/250w/){: w="72" style="min-width: 32px"} | [Natural Language Processing with Transformers](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/) |
@@ -159,8 +160,11 @@ The following list of book only contains the titles where I read the full book f
 
 The following is an extract of a few digital credentials that I earned over the last few years:
 
-![IBM Super Learner 2022](/assets/img/badges/bkan-ibm-suer-learner-2022.png){: w="256" }
-_For 133 hours of learning in 2022 (top 34% of all learners at IBM)_
+![IBM Champion Learner Gold 2023](/assets/img/badges/bkan-ibm-gold-learner-2023.png){: w="256" }
+_For 200+ hours of learning and 9 digital credentials in 2023 (top 5% within IBM)_
+
+![IBM Super Learner 2022](/assets/img/badges/bkan-ibm-super-learner-2022.png){: w="256" }
+_For 130+ hours of learning in 2022 (top 34% within IBM)_
 
 A few more of my badges or digital credentials can be found on my [Credly profile](https://www.credly.com/users/b3nk4n/badges).
 
