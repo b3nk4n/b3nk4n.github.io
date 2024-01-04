@@ -70,7 +70,7 @@ The following list of book only contains the titles where I read the full book f
 
 |  | Book title |
 |:-|:-----|
-| ![Book Cover](https://learning.oreilly.com/library/cover/9781492029496/250w/){: w="72" style="min-width: 32px"} | [The Site Reliability Workbook](https://www.oreilly.com/library/view/the-site-reliability/9781492029496) (Part 1y) |
+| ![Book Cover](https://learning.oreilly.com/library/cover/9781492029496/250w/){: w="72" style="min-width: 32px"} | [The Site Reliability Workbook](https://www.oreilly.com/library/view/the-site-reliability/9781492029496) (Part 1) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781491950340/250w/){: w="72" style="min-width: 32px"} | [Building Microservices](https://www.oreilly.com/library/view/building-microservices/9781491950340) |
 
 ### 2019
@@ -161,7 +161,7 @@ The following list of book only contains the titles where I read the full book f
 The following is an extract of a few digital credentials that I earned over the last few years:
 
 ![IBM Champion Learner Gold 2023](/assets/img/badges/bkan-ibm-gold-learner-2023.png){: w="256" }
-_For 200+ hours of learning and 9 digital credentials in 2023 (top 5% within IBM)_
+_For 200+ hours of learning and earning 9 digital credentials in 2023 (top 5% within IBM)_
 
 ![IBM Super Learner 2022](/assets/img/badges/bkan-ibm-super-learner-2022.png){: w="256" }
 _For 130+ hours of learning in 2022 (top 34% within IBM)_
