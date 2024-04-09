@@ -21,6 +21,14 @@ To either deepen my knowledge in topics that I'm currently dealing with either a
 
 The following list of book only contains the titles where I read the full book from start to end, except stated differently.
 
+### 2024
+
+|  | Book title |
+|:-|:-----|
+| ![Book Cover](https://learning.oreilly.com/library/cover/9781492082262/250w/){: w="72" style="min-width: 32px"} | [Java to Kotlin](https://www.oreilly.com/library/view/java-to-kotlin/9781492082262) |
+| ![Book Cover](https://learning.oreilly.com/library/cover/9781647823986/250w/){: w="72" style="min-width: 32px"} | [The Microstress Effect](https://www.oreilly.com/library/view/the-microstress-effect/9781647823986) |
+| ![Book Cover](https://www.databricks.com/en-resources-assets/static/3f3755c77234e8ff8e88198a8a4b0866/24248.png){: w="72" style="min-width: 32px"} | [The Big Book of MLOps (2nd)](https://www.databricks.com/resources/ebook/the-big-book-of-mlops) |
+
 ### 2023
 
 |  | Book title |
@@ -65,13 +73,13 @@ The following list of book only contains the titles where I read the full book f
 | ![Book Cover](https://images.manning.com/360/480/resize/book/9/fd98cd2-f249-4675-989a-96736b84fef1/Bejeck-Kafka-HI.png){: w="72" style="min-width: 32px"} | [Kafka Streams in Action](https://www.manning.com/books/kafka-streams-in-action) |
 
 
-
 ### 2020
 
 |  | Book title |
 |:-|:-----|
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781492029496/250w/){: w="72" style="min-width: 32px"} | [The Site Reliability Workbook](https://www.oreilly.com/library/view/the-site-reliability/9781492029496) (Part 1) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781491950340/250w/){: w="72" style="min-width: 32px"} | [Building Microservices](https://www.oreilly.com/library/view/building-microservices/9781491950340) |
+| ![Book Cover](https://learning.oreilly.com/library/cover/9781484257388/250w/){: w="72" style="min-width: 32px"} | [Modern Full-Stack Development](https://www.oreilly.com/library/view/modern-full-stack-development/9781484257388) |
 
 ### 2019
 
@@ -93,6 +101,8 @@ The following list of book only contains the titles where I read the full book f
 
 |  | Book title |
 |:-|:-----|
+| ![Book Cover](https://learning.oreilly.com/library/cover/9781484209646/250w/){: w="72" style="min-width: 32px"} | [Big Data Analytics with Spark](https://www.oreilly.com/library/view/big-data-analytics/9781484209646) |
+| ![Book Cover](https://learning.oreilly.com/library/cover/9781491952955/250w/){: w="72" style="min-width: 32px"} | [Practical Statistics for Data Scientists](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955) |
 | ![Book Cover](https://content.packt.com/B05478/cover_image_small.jpg){: w="72" style="min-width: 32px"} | [Deep Learning with TensorFlow](https://www.packtpub.com/product/deep-learning-with-tensorflow/9781786469786) |
 
 ### 2016
@@ -123,6 +133,12 @@ The following list of book only contains the titles where I read the full book f
 | ![Book Cover](https://dragonfly.wpi.edu/book/cover.png){: w="72" style="min-width: 32px"} | [Dragonfly - Program a Game Engine from Scratch](https://dragonfly.wpi.edu/book/) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781118421444/250w/){: w="72" style="min-width: 32px"} | [Professional HTML5 Mobile Game Development](https://www.oreilly.com/library/view/professional-html5-mobile/9781118421444/) |
 
+### 2012
+
+|  | Book title |
+|:-|:-----|
+| ![Book Cover](https://learning.oreilly.com/library/cover/9781430247104/250w/){: w="72" style="min-width: 32px"} | [Pro HTML5 Games](https://www.oreilly.com/library/view/pro-html5-games/9781430247104/) |
+
 ### 2011
 
 |  | Book title |
@@ -147,6 +163,7 @@ The following list of book only contains the titles where I read the full book f
 
 |  | Book title |
 |:-|:-----|
+| ![Book Cover](https://learning.oreilly.com/library/cover/9780596527358/250w/){: w="72" style="min-width: 32px"} | [Head First Software Development](https://www.oreilly.com/library/view/head-first-software/9780596527358) |
 | ![Book Cover](https://pictures.abebooks.com/isbn/9783836211932-us.jpg){: w="72" style="min-width: 32px"} | [Einstieg in Visual C++ 2008](https://www.abebooks.com/9783836211932/Einstieg-Visual-2008-Galileo-Computing-3836211939/plp) |
 | ![Book Cover](https://pictures.abebooks.com/isbn/9783898428163-us.jpg){: w="72" style="min-width: 32px"} | [C++ von A bis Z](https://www.abebooks.com/servlet/BookDetailsPL?bi=30041547610) |
 
