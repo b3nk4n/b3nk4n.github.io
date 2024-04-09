@@ -177,6 +177,9 @@ The following list of book only contains the titles where I read the full book f
 
 The following is an extract of a few digital credentials that I earned over the last few years:
 
+![IBM Developer Expert 2024](https://images.credly.com/size/680x680/images/7bf5867d-ea16-4d9f-9a6d-3d9011082c4a/Developer-Expert1.png){: w="256" }
+_An IBM Expert Developer is recognized as a Subject Matter Expert and leads others in their work, providing innovative ideas, working across multiple business units and/or geographies_
+
 ![IBM Champion Learner Gold 2023](/assets/img/badges/bkan-ibm-gold-learner-2023.png){: w="256" }
 _For 200+ hours of learning and earning 9 digital credentials in 2023 (top 5% within IBM)_
 
