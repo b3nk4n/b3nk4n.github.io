@@ -78,6 +78,7 @@ The following list of book only contains the titles where I read the full book f
 |  | Book title |
 |:-|:-----|
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781492029496/250w/){: w="72" style="min-width: 32px"} | [The Site Reliability Workbook](https://www.oreilly.com/library/view/the-site-reliability/9781492029496) (Part 1) |
+| ![Book Cover](https://learning.oreilly.com/library/cover/9781491974285/250w/){: w="72" style="min-width: 32px"} | [Stream Processing with Apache Flink](https://www.oreilly.com/library/view/stream-processing-with/9781491974285/) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781491950340/250w/){: w="72" style="min-width: 32px"} | [Building Microservices](https://www.oreilly.com/library/view/building-microservices/9781491950340) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781484257388/250w/){: w="72" style="min-width: 32px"} | [Modern Full-Stack Development](https://www.oreilly.com/library/view/modern-full-stack-development/9781484257388) |
 
