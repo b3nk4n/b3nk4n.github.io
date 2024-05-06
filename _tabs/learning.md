@@ -25,6 +25,8 @@ The following list of book only contains the titles where I read the full book f
 
 |  | Book title |
 |:-|:-----|
+| ![Book Cover](https://learning.oreilly.com/library/cover/9781484290750/250w/){: w="72" style="min-width: 32px"} | [Practical OpenTelemetry](https://www.oreilly.com/library/view/practical-opentelemetry-adopting/9781484290750) |
+| ![Book Cover](https://learning.oreilly.com/library/cover/9781633439597/250w/){: w="72" style="min-width: 32px"} | [Cloud Observability in Action](https://www.oreilly.com/library/view/cloud-observability-in/9781633439597/) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781492082262/250w/){: w="72" style="min-width: 32px"} | [Java to Kotlin](https://www.oreilly.com/library/view/java-to-kotlin/9781492082262) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781647823986/250w/){: w="72" style="min-width: 32px"} | [The Microstress Effect](https://www.oreilly.com/library/view/the-microstress-effect/9781647823986) |
 | ![Book Cover](https://www.databricks.com/en-resources-assets/static/3f3755c77234e8ff8e88198a8a4b0866/24248.png){: w="72" style="min-width: 32px"} | [The Big Book of MLOps (2nd)](https://www.databricks.com/resources/ebook/the-big-book-of-mlops) |
