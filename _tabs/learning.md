@@ -25,6 +25,11 @@ The following list of book only contains the titles where I read the full book f
 
 |  | Book title |
 |:-|:-----|
+| ![Book Cover](https://www.norulesrules.com/uploads/images/No-Rules-Rules.jpg?_cchid=e2de11da561ccbf822b7fa12be0c5e18){: w="72" style="min-width: 32px"} | [No Rules Rules](https://www.norulesrules.com/) |
+| ![Book Cover](https://learning.oreilly.com/library/cover/9781098158958/250w/){: w="72" style="min-width: 32px"} | [Cloud Native Observability](https://www.oreilly.com/library/view/cloud-native-observability/9781098158958) |
+| ![Book Cover](https://learning.oreilly.com/library/cover/9781484288580/250w/){: w="72" style="min-width: 32px"} | [Beginning Go Programming](https://www.oreilly.com/library/view/beginning-go-programming/9781484288580) |
+| ![Book Cover](https://learning.oreilly.com/library/cover/9781098126919/250w/){: w="72" style="min-width: 32px"} | [Cloud Native Monitoring](https://www.oreilly.com/library/view/cloud-native-monitoring/9781098126919) |
+| ![Book Cover](https://learning.oreilly.com/library/cover/9781633439108/250w/){: w="72" style="min-width: 32px"} | [Acing the System Design Interview](https://www.oreilly.com/library/view/acing-the-system/9781633439108) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781484290750/250w/){: w="72" style="min-width: 32px"} | [Practical OpenTelemetry](https://www.oreilly.com/library/view/practical-opentelemetry-adopting/9781484290750) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781633439597/250w/){: w="72" style="min-width: 32px"} | [Cloud Observability in Action](https://www.oreilly.com/library/view/cloud-observability-in/9781633439597/) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781492082262/250w/){: w="72" style="min-width: 32px"} | [Java to Kotlin](https://www.oreilly.com/library/view/java-to-kotlin/9781492082262) |
