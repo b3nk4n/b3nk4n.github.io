@@ -25,6 +25,7 @@ The following list of book only contains the titles where I read the full book f
 
 |  | Book title |
 |:-|:-----|
+| ![Book Cover](https://learning.oreilly.com/library/cover/9781617297038/250w/){: w="72" style="min-width: 32px"} | [Full Stack GraphQL Applications](https://www.oreilly.com/library/view/full-stack-graphql/9781617297038) |
 | ![Book Cover](https://www.norulesrules.com/uploads/images/No-Rules-Rules.jpg?_cchid=e2de11da561ccbf822b7fa12be0c5e18){: w="72" style="min-width: 32px"} | [No Rules Rules](https://www.norulesrules.com/) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781098158958/250w/){: w="72" style="min-width: 32px"} | [Cloud Native Observability](https://www.oreilly.com/library/view/cloud-native-observability/9781098158958) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781484288580/250w/){: w="72" style="min-width: 32px"} | [Beginning Go Programming](https://www.oreilly.com/library/view/beginning-go-programming/9781484288580) |
