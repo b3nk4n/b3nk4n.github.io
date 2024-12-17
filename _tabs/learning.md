@@ -25,6 +25,9 @@ The following list of book only contains the titles where I read the full book f
 
 |  | Book title |
 |:-|:-----|
+| ![Book Cover](https://learning.oreilly.com/library/cover/9781617298417/250w/){: w="72" style="min-width: 32px"} | [Microservice APIs](https://www.oreilly.com/library/view/microservice-apis/9781617298417) |
+| ![Book Cover](https://learning.oreilly.com/library/cover/9781484296219/250w/){: w="72" style="min-width: 32px"} | [Practical GraphQL](https://www.oreilly.com/library/view/practical-graphql-learning/9781484296219) |
+| ![Book Cover](https://learning.oreilly.com/library/cover/9781492050452/250w/){: w="72" style="min-width: 32px"} | [Feature Flag Best Practices](https://www.oreilly.com/library/view/feature-flag-best/9781492050452/) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781098118723/250w/){: w="72" style="min-width: 32px"} | [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781098138783/250w/){: w="72" style="min-width: 32px"} | [Building Real-Time Analytics Systems](https://www.oreilly.com/library/view/building-real-time-analytics/9781098138783/) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781617297038/250w/){: w="72" style="min-width: 32px"} | [Full Stack GraphQL Applications](https://www.oreilly.com/library/view/full-stack-graphql/9781617297038) |
@@ -37,7 +40,7 @@ The following list of book only contains the titles where I read the full book f
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781633439597/250w/){: w="72" style="min-width: 32px"} | [Cloud Observability in Action](https://www.oreilly.com/library/view/cloud-observability-in/9781633439597/) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781492082262/250w/){: w="72" style="min-width: 32px"} | [Java to Kotlin](https://www.oreilly.com/library/view/java-to-kotlin/9781492082262) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781647823986/250w/){: w="72" style="min-width: 32px"} | [The Microstress Effect](https://www.oreilly.com/library/view/the-microstress-effect/9781647823986) |
-| ![Book Cover](https://www.databricks.com/en-resources-assets/static/3f3755c77234e8ff8e88198a8a4b0866/24248.png){: w="72" style="min-width: 32px"} | [The Big Book of MLOps (2nd)](https://www.databricks.com/resources/ebook/the-big-book-of-mlops) |
+| | [The Big Book of MLOps (2nd)](https://www.databricks.com/resources/ebook/the-big-book-of-mlops) |
 
 ### 2023
 
