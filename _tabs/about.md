@@ -57,6 +57,7 @@ In the end, the only limit is your time and creativity.
 ## Teaching
 
 |---|:--|
+| ![SJSU](/assets/img/logos/sjsu.png){: w="72" style="min-width: 32px"} | **Guest Lecturer --- Enterprise Software Platform (CMPE272)** <br/> _**San Jose State University**_ <br/> Hands-on workshop about Observability for MSSE students <br/> *San José, CA, USA --- 10/2024* |
 | ![HTWG](/assets/img/logos/htwg.png){: w="72" style="min-width: 32px"} | **Teaching Assistant --- Programming 2** <br/> _**HTWG Konstanz University of Applied Sciences**_ <br/> Algorithms and Data Structures in Java <br/> *Constance, DE --- 10/2012 – 02/2013* |
 | ![HTWG](/assets/img/logos/htwg.png){: w="72" style="min-width: 32px"} | **Teaching Assistant --- Mathematics 2** <br/> _**HTWG Konstanz University of Applied Sciences**_ <br/> Prepare Students to Solve Required Assignments <br/> *Constance, DE --- 03/2011 – 07/2012* |
 | ![HTWG](/assets/img/logos/htwg.png){: w="72" style="min-width: 32px"} | **Teaching Assistant --- Programming 1** <br/> _**HTWG Konstanz University of Applied Sciences**_ <br/> Java Programming Techniques <br/> *Constance, DE --- 10/2011 – 02/2012* |

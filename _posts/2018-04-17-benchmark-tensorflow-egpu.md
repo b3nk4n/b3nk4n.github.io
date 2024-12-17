@@ -4,7 +4,7 @@ author:
   name: Benjamin Sautermeister
 categories: [Machine Learning]
 tags: [benchmark, tensorflow, egpu, performance]
-pin: true
+pin: false
 ---
 
 In the last post, I wrote about how to setup an eGPU on Ubuntu to get started with TensorFlow. I shortly mentioned that a eGPU
