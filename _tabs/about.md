@@ -22,17 +22,17 @@ In the end, the only limit is your time and creativity.
 
 - **Selflessness:** Think outside of the scope of your team, and especially yourself. And always focus on the overall value that we all create. All teams (should) work towards a common goal. As an example, the end-user does not care **who** built it, or who got the **credit** for it behind the scenes.
 - **Communication:** Honest and transparent communication is key, especially when working in a larger, international team.
-- **Passion:** You spend almost most of time at work; so better enjoy it and make it to your passion! Be excited about the challenges at work, and be proud of your achievements, or when you learn from mistakes.
+- **Humility:** Be human. Be transparent and honest. Take ownership. And learn from each others mistakes without any blame.
 - **Learning**: Always keep a (e)book (or PDF on your phone) at hand for whenever you have a few free minutes. It's astonishing how much you can learn within a year just by filling these gaps and using your time efficiently. Furthermore, acknowledge that there are always more experience people out there to learn from.
 - **Inclusion:** Everyone is different. Treat them with respect. And collaborate with them openly, instead of being narrow minded. Share knowledge, and accept to learn from their experience. There is always a chance that you might be wrong.
 - **Fail Fast:** Don't shy away to take a risk, and follow the Pareto's Principle to gain early feedback. If things don't work out, pivot and change your plans or strategy. Nobody should be judged for trying to be innovative. Or to learn from failure. It's essential to gain experience.
-- **Farsigtedness:** Make data-driven decisions that aim for long-term success, instead of just fulfilling short-term expectations. 
-- **Contentment:** The best things in life are free. 
+- **Think Long-term:** And aim to make each others future life easier. 
 
 ## Working Experience
 
 |---|:--|
-| ![IBM](/assets/img/logos/ibm-color.png){: w="72" style="min-width: 32px"} | **Lead Software Engineering Professional** <br/> _**IBM Silicon Valley Lab**_ <br/> IBM Observability by Instana -- Team Issue Detection <br/> *San José, CA, USA --- since 04/2023* |
+| ![IBM](/assets/img/logos/ibm-color.png){: w="72" style="min-width: 32px"} | **Staff Software Engineer (_Tech Champion_)** <br/> _**IBM Silicon Valley Lab**_ <br/> SME for Intelligent Action and Incident Management <br/> *San José, CA, USA --- since 04/2024* |
+| ![IBM](/assets/img/logos/ibm-color.png){: w="72" style="min-width: 32px"} | **Lead Software Engineering Professional** <br/> _**IBM Silicon Valley Lab**_ <br/> IBM Observability by Instana -- Team Issue Detection <br/> *San José, CA, USA --- 04/2023 - 03/2024* |
 | ![IBM](/assets/img/logos/ibm.png){: w="72" style="min-width: 32px"} | **Lead Software Engineering Professional** <br/> _**IBM Germany Research & Development GmbH**_ <br/> IBM Observability by Instana -- Team Alerting <br/> *Munich, DE --- 01/2022 - 03/2023* |
 | ![Instana](/assets/img/logos/instana-ibm.png){: w="72" style="min-width: 32px"} | **Lead Software Engineer** <br/> _**Instana GmbH** -- an IBM Company_ <br/> Anomaly Detection and Alerting <br/> *Munich, DE --- 10/2021 - 12/2021* |
 | ![Instana](/assets/img/logos/instana.png){: w="72" style="min-width: 32px"} | **Senior Software Engineer** <br/> _**Instana GmbH**_ <br/> Issue Detection and Alerting <br/> *Munich, DE --- 10/2019 - 10/2021* |
@@ -64,6 +64,7 @@ In the end, the only limit is your time and creativity.
 
 ## Special Achievements
 
+| ![IBM Profession Certification](https://images.credly.com/size/680x680/images/7bf5867d-ea16-4d9f-9a6d-3d9011082c4a/Developer-Expert1.png){: w="72" style="min-width: 32px"} | **IBM Expert Level 3 Certification** <br/> _**IBM Automation**_ <br/> to recognize my expertise and contributions in the observability space <br/> *San José, CA, USA --- 11/2023* |
 | ![IBM](/assets/img/logos/ibm-color.png){: w="72" style="min-width: 32px"} | **Winner of Outstanding Technical Achievement Award** <br/> _**IBM Automation**_ <br/> For various contributions leading to very positive financial implications <br/> *San José, CA, USA --- 11/2023* |
 | ![Microsoft](/assets/img/logos/ms.png){: w="72" style="min-width: 32px"} | **First Price Winner: Christmas App Revolution** <br/> _**Microsoft Germany**_ <br/> Submitted App: powernAPP \| 650k downloads <br/> *Constance, DE --- 01/2014* |
 | ![Microsoft](/assets/img/logos/ms.png){: w="72" style="min-width: 32px"} | **Special Price Winner: App Revolution** <br/> _**Microsoft Germany**_ <br/> Submitted Game: SpacepiXX \| 250k downloads <br/> *Constance, DE --- 05/2013* |
