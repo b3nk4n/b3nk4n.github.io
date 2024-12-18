@@ -40,7 +40,7 @@ This tells us that:
 ### Are swap memory and page cache the same thing?
 
 While both have in common that they relate to memory management, the _swap memory_ is a dedicated portion of a hard disk used to store inactive data from main memory when it is full. Essentially extending the available memory. In contrast, the _page cache_ is a part of the main memory where frequently accessed file data is stored temporarily to improve performance by reducing disk reads.
-In other words, swap memory is used when the RAM is full, or when pages are stale, such as due to inactive processes [swappiness](^swappiness). Whereas the page cache is used to speed up access to frequently used files from the disk. 
+In other words, swap memory is used when the RAM is full, or when pages are stale, such as due to inactive processes [^swappiness]. Whereas the page cache is used to speed up access to frequently used files from the disk. 
 
 ### What did we learn?
 
