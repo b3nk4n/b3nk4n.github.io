@@ -25,7 +25,7 @@ $ nvm use 14
 $ npm install -g terminalizer
 ```
 
-Next, as a Mac use with oh-my-zsh, I created and edited a `config.yaml`{: .filepath} to run `zsh` instead of the default `bash`
+Next, as a Mac user with oh-my-zsh, I created and edited a `config.yaml`{: .filepath} to run `zsh` instead of the default `bash`
 in the recoreded terminal to effectively get the themese applied in the recording.
 
 ```console
