@@ -1,7 +1,6 @@
 ---
 title: Resolve Read-only Device Access
-author:
-  name: Benjamin Kan
+author: b3nk4n
 categories: [Tools]
 tags: [mac, linux, trick]
 pin: false

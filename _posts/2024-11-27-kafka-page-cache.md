@@ -1,7 +1,6 @@
 ---
 title: Apache Kafka and the Page Cache
-author:
-  name: Benjamin Kan
+author: Benjamin Kan
 categories: [Software Engineering]
 tags: [linux, kafka, streaming]
 pin: false
