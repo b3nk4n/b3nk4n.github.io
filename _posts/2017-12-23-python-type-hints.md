@@ -1,7 +1,6 @@
 ---
 title: Better IDE Support for Python with Type Hints
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [Software Engineering]
 tags: [python, typing]
 pin: false

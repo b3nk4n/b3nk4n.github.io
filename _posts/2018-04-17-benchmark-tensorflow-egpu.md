@@ -1,7 +1,6 @@
 ---
 title: Benchmarking TensorFlow Performance on eGPU
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [Machine Learning]
 tags: [benchmark, tensorflow, egpu, performance]
 pin: false

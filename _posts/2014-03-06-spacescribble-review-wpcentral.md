@@ -1,7 +1,6 @@
 ---
 title: Review of SpaceScribble on WPCentral
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [Projects, Windows]
 tags: [windows, windows phone, game dev, review]
 pin: false

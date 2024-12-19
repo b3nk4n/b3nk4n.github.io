@@ -1,7 +1,6 @@
 ---
 title: 9 Reasons Why Microsoft Should Revise the Action Center
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [Feedback, Windows]
 tags: [windows, windows phone, uwp, action center]
 pin: false

@@ -1,7 +1,6 @@
 ---
 title: Quick Data Visualization in Python
-author:
-  name: Benjamin Kan
+author: b3nk4n
 categories: [Data Visualization]
 tags: [python, matplotlib, plotly, termgraph, plotext, uniplot, tabulate, data, visualization]
 pin: false

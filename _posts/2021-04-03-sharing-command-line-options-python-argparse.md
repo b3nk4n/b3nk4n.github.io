@@ -1,7 +1,6 @@
 ---
 title: Sharing Command-line Options in Python Argparse
-author:
-  name: Benjamin Kan
+author: bsautermeister
 categories: [Software Engineering]
 tags: [python, argparse]
 pin: false

@@ -1,7 +1,6 @@
 ---
 title: Retrospective on 6 Years of Windows App Development
-author:
-  name: Benjamin Kan
+author: b3nk4n
 categories: [Projects, Analytics]
 tags: [windows, windows phone, downloads, review, history]
 pin: true

@@ -1,7 +1,6 @@
 ---
 title: Augmented Reality with Google Glass
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [University, Abroad]
 tags: [university, project, google]
 pin: false

@@ -1,7 +1,6 @@
 ---
 title: German Windows Phone Store Highlihgts 3 of My Apps 
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [Projects, Analytics]
 tags: [windows, windows phone, downloads]
 pin: false

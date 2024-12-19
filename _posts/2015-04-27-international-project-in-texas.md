@@ -1,7 +1,6 @@
 ---
 title: Internation Student Project in Texas
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [University, Abroad]
 tags: [university, android, project]
 pin: false

@@ -1,7 +1,6 @@
 ---
 title: Find your model's optimal hyperparameters with Hyperopt
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [Machine Learning]
 tags: [hyperopt]
 pin: false

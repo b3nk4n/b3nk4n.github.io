@@ -1,7 +1,6 @@
 ---
 title: Xtext - Your Own Programming Language Here
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [Software Engineering]
 tags: [xtext, dsl, eclipse, xtext, xtend, university]
 pin: false

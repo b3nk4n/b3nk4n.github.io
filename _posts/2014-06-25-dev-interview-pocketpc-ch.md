@@ -1,7 +1,6 @@
 ---
 title: Developer Interview with PocketPC
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [Projects, Windows]
 tags: [interview, windows, windows phone, apps]
 pin: false

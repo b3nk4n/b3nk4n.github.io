@@ -1,7 +1,6 @@
 ---
 title: Why should I install TensorFlow from Source?
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [Machine Learning]
 tags: [tensorflow, performance]
 pin: false

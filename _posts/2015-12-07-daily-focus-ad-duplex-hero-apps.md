@@ -1,7 +1,6 @@
 ---
 title: Daily Focus App Reaches ROYAL Status in AdDuplex HERO APPS
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [Projects, Windows]
 tags: [windows, windows phone, uwp]
 pin: false

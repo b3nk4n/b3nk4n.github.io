@@ -1,7 +1,6 @@
 ---
 title: Rocking the Ortstock
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [Events, IT]
 tags: [conference, cebit, trip]
 image:

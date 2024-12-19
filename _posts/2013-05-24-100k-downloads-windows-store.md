@@ -1,7 +1,6 @@
 ---
 title: 100k Downloads in Windows Phone Store
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [Projects, Analytics]
 tags: [windows, windows phone, downloads]
 pin: false

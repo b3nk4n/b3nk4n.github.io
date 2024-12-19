@@ -1,7 +1,6 @@
 ---
 title: Bug in ComboBox of UWP Apps when using Custom Styles
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [Software Engineering]
 tags: [windows phone, uwp, csharp, bug]
 pin: false

@@ -1,7 +1,6 @@
 ---
 title: Automatic Viewport Scaling in Windows 8 Apps Using MonoGame
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [Software Engineering, Games]
 tags: [csharp, windows, monogame, game dev]
 pin: false

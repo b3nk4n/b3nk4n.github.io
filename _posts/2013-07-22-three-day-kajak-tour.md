@@ -1,7 +1,6 @@
 ---
 title: Three Day Kajak Tour
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [Outdoors, Kajak]
 tags: [kajak, trip]
 image:

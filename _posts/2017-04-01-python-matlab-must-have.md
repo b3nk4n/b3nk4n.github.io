@@ -1,7 +1,6 @@
 ---
 title: Python + Matplotlib = Must Have on Your System
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [Data Visualization]
 tags: [python, matplotlib, data, visualization]
 pin: false

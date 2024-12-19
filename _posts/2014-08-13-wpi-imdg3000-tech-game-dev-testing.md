@@ -1,7 +1,6 @@
 ---
 title: WPI IMGD3000 Technical Game Development Course Inspired by My UnitTest Manager
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [University, Abroad]
 tags: [university, cpp, project, game dev]
 pin: false

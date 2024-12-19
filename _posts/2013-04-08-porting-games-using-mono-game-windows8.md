@@ -1,7 +1,6 @@
 ---
 title: Porting Windows 8 Games Using MonoGame
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [Software Engineering, Games]
 tags: [windows, monogame, game dev, csharp]
 image:

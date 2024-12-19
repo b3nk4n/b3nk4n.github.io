@@ -1,7 +1,6 @@
 ---
 title: Intel AI Days 2017 in Munich
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [Events, Machine Learning]
 tags: [intel, conference, deep learning]
 image:

@@ -1,7 +1,6 @@
 ---
 title: Speed Up Your Windows Phone App
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [Software Engineering, Windows]
 tags: [windows, windows phone, performance]
 pin: false

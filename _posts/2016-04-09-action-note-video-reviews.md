@@ -1,7 +1,6 @@
 ---
 title: Action Note Video Reviews
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [Projects, Windows]
 tags: [windows phone, uwp, review, action note]
 pin: false

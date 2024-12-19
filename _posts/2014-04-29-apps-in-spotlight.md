@@ -1,7 +1,6 @@
 ---
 title: Apps in Telekom Spotlight 
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [Projects, Windows]
 tags: [windows, windows phone]
 pin: false

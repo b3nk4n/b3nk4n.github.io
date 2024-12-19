@@ -1,7 +1,6 @@
 ---
 title: Microsoft AppRevolution Competition
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [Projects, Windows]
 tags: [windows, windows phone, microsoft, competition]
 pin: false

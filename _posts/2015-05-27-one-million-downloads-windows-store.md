@@ -1,7 +1,6 @@
 ---
 title: 1 Millionen Downloads in Windows App Store
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [Projects, Analytics]
 tags: [windows, windows phone, downloads]
 pin: false

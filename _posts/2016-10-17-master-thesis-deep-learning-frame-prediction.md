@@ -1,7 +1,6 @@
 ---
 title: Master's Thesis - Deep Learning Approaches to Predict Future Frames in Videos
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [Machine Learning]
 tags: [tensorflow, python, deep learning, computer vision, research, lstm, education]
 pin: false

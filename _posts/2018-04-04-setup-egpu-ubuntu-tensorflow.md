@@ -1,7 +1,6 @@
 ---
 title: How to Setup an eGPU on Ubuntu for TensorFlow
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [Machine Learning]
 tags: [tensorflow, egpu, performance, linux]
 pin: false

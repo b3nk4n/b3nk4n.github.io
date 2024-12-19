@@ -1,7 +1,6 @@
 ---
 title: powernAPP is the Best Rated Health & Fitness App in German Windows Phone Store 
-author:
-  name: Benjamin Sautermeister
+author: bsautermeister
 categories: [Projects, Windows]
 tags: [windows, windows phone]
 pin: false

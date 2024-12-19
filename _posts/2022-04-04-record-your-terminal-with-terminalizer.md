@@ -1,7 +1,6 @@
 ---
 title: Record Your Terminal With Terminalizer
-author:
-  name: Benjamin Kan
+author: b3nk4n
 categories: [Tools]
 tags: [terminalizer, terminal, console, recording]
 pin: false
