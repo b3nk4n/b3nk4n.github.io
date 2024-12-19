@@ -71,4 +71,24 @@ allows you to drop data. Otherwise, (auto) scaling the consumers, such as using 
 
 Lastly, it is good to be aware that an under-scaled consumer of a topic can have a negative impact on the overall Kafka cluster. If consumers of a specific Kafka topic are continuously lagging behind, that means the likelihood that the request needs to be served from disk is higher compared to when fetching more recent data. Of course, all of that depends on your configured Kafka topic configuration, such as via `log.retention.ms` or `log.retention.bytes`, and the throughput of data in contrast to the available _page cache_.
 
+### How are the topic partitions of a Kafka log utilizing the page cache?
+
+On our journey of tweaking our Kafka cluster and resolving performance bottlenecks, one tool that came in handy was [vmtouch](https://hoytech.com/vmtouch/).
+The _Virtual Memory Toucher_ is a tool for peeking into the file system cache of unix and unix-like systems.
+
+Using that tool, we could get a better idea how much of the Kafka message log could be served from page cache. Furthermore, we could get a better idea about
+how much consumer lag could be served from memory due to the page cache. And about what consumer lag is more likely serviced from disk and explain the high
+_read utilization_ we have been seeing.
+
+![vmtouch](/assets/img/posts/2024/vmtouch-kafka.png)
+_Using vmtouch to show details about the page cache usage of a single Kafka partition_
+
+### Conclusion
+
+Understanding the _page cache_ is fundamental when working with Kafka, because it's one of the main aspects which makes it so far.
+Furthermore, when operating Kafka at scale, it is important to also keep an eye on the disk utilization, beside just CPU and memory.
+Especially the _read utilization_ of your disks. And don't get fooled if your memory only seems to be utilized by less than 50%.
+The number you are looking at is very likely not incorporating the page cache.
+Ideally, use your observability tool of choice, and if not done already out-of-the-box, define an appropriate alert to uncover this situation proactively.
+
 [^swappiness]: Related to Kafka, see the section about `vm.swappiness` in this [post](https://medium.com/@ankurrana/things-nobody-will-tell-you-setting-up-a-kafka-cluster-3a7a7fd1c92d) or in [Tuning Virtual Memory](https://docs.confluent.io/platform/current/kafka/post-deployment.html#tuning-virtual-memory).
