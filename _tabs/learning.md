@@ -12,7 +12,7 @@ Curious what topics I'm currently into? The log below might give you an idea…
 
 Reading technical books is one of my passions. I'm strongly taking advnantage of great resources such as O'Reilly Online Learning Enterprise provided via IBM,
 or individual books that I bought myself from Amazon. And to be honest, many great books are just a few clicks away when spending a few minutes searching
-on Google or GitHub. 
+on Google or GitHub.
 
 Over time, I realized reading books instead of watching vidoes or courses helps me much better to remember its content, and is generally
 a better reference to get back to it, once I really need that previously learned content. Might be a personal thing. But well, that's how my brain seems to work.
@@ -20,6 +20,14 @@ I always have a book at hand whenever I'm sitting passivly in the backrow of a c
 To either deepen my knowledge in topics that I'm currently dealing with either at work or my personal projects. Or to learn something completely new and to broaden my horizen.
 
 The following list of book only contains the titles where I read the full book from start to end, except stated differently.
+
+### 2025
+
+|  | Book title |
+|:-|:-----|
+| ![Book Cover](https://learning.oreilly.com/library/cover/9781633437340/250w/){: w="72" style="min-width: 32px"} | [React in Depth](https://www.oreilly.com/library/view/react-in-depth/9781633437340) |
+| ![Book Cover](https://learning.oreilly.com/library/cover/9781617293450/250w/){: w="72" style="min-width: 32px"} | [CSS in Depth](https://www.oreilly.com/library/view/css-in-depth/9781617293450/) |
+
 
 ### 2024
 
@@ -58,6 +66,8 @@ The following list of book only contains the titles where I read the full book f
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781484287927/250w/){: w="72" style="min-width: 32px"} | [Beginning Spring Boot 3: Build Dynamic Cloud-Native Java Apps and Microservices](https://www.oreilly.com/library/view/beginning-spring-boot/9781484287927/) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781617296642/250w/){: w="72" style="min-width: 32px"} | [Knative in Action](https://www.oreilly.com/library/view/knative-in-action/9781617296642/) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781617298424/250w/){: w="72" style="min-width: 32px"} | [Cloud Native Spring in Action](https://www.oreilly.com/library/view/cloud-native-spring/9781617298424/) |
+| ![Book Cover](https://m.media-amazon.com/images/I/71ATQkTtUrL._SY522_.jpg){: w="72" style="min-width: 32px"} | [I May Be Wrong](https://overtherainbowbookblog.co.uk/2023/01/15/bookreview-i-may-be-wrong-by-bjorn-natthiko-lindeblad-mrscookesbooks-bloomsburybooks-imaybewrong-bjornnatthikolindeblad-tandemcollective-5stars/) |
+
 
 ### 2022
 
