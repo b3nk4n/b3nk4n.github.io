@@ -10,7 +10,7 @@ Curious what topics I'm currently into? The log below might give you an idea…
 
 ## Books
 
-Reading technical books is one of my passions. I'm strongly taking advnantage of great resources such as O'Reilly Online Learning Enterprise provided via IBM,
+Reading technical books is one of my passions. I'm strongly taking advantage of great resources such as O'Reilly Online Learning Enterprise provided via IBM,
 or individual books that I bought myself from Amazon. And to be honest, many great books are just a few clicks away when spending a few minutes searching
 on Google or GitHub.
 
@@ -40,6 +40,7 @@ The following list of book only contains the titles where I read the full book f
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781098138783/250w/){: w="72" style="min-width: 32px"} | [Building Real-Time Analytics Systems](https://www.oreilly.com/library/view/building-real-time-analytics/9781098138783/) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781617297038/250w/){: w="72" style="min-width: 32px"} | [Full Stack GraphQL Applications](https://www.oreilly.com/library/view/full-stack-graphql/9781617297038) |
 | ![Book Cover](https://www.norulesrules.com/uploads/images/No-Rules-Rules.jpg?_cchid=e2de11da561ccbf822b7fa12be0c5e18){: w="72" style="min-width: 32px"} | [No Rules Rules](https://www.norulesrules.com/) |
+| ![Book Cover](https://learning.oreilly.com/library/cover/9781098146597/250w/){: w="72" style="min-width: 32px"} | [Building Real-Time Analytics Applications](https://learning.oreilly.com/library/view/building-real-time-analytics/9781098146597/) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781098158958/250w/){: w="72" style="min-width: 32px"} | [Cloud Native Observability](https://www.oreilly.com/library/view/cloud-native-observability/9781098158958) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781484288580/250w/){: w="72" style="min-width: 32px"} | [Beginning Go Programming](https://www.oreilly.com/library/view/beginning-go-programming/9781484288580) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781098126919/250w/){: w="72" style="min-width: 32px"} | [Cloud Native Monitoring](https://www.oreilly.com/library/view/cloud-native-monitoring/9781098126919) |
