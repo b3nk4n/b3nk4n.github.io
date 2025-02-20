@@ -25,6 +25,9 @@ The following list of book only contains the titles where I read the full book f
 
 |  | Book title |
 |:-|:-----|
+| ![Book Cover](https://learning.oreilly.com/library/cover/9781617298875/250w/){: w="72" style="min-width: 32px"} | [The Well-Grounded Java Developer](https://learning.oreilly.com/library/view/the-well-grounded-java/9781617298875/) |
+| ![Book Cover](https://learning.oreilly.com/library/cover/9781469083308/250w/){: w="72" style="min-width: 32px"} | [Emotional Intelligence for the Modern Leader](https://learning.oreilly.com/videos/emotional-intelligence-for/9781469083308/) |
+| ![Book Cover](https://learning.oreilly.com/library/cover/9781663724977/250w/){: w="72" style="min-width: 32px"} | [HBR Guide to Emotional Intelligence](https://learning.oreilly.com/videos/hbr-guide-to/9781663724977/) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781633437340/250w/){: w="72" style="min-width: 32px"} | [React in Depth](https://www.oreilly.com/library/view/react-in-depth/9781633437340) |
 | ![Book Cover](https://learning.oreilly.com/library/cover/9781617293450/250w/){: w="72" style="min-width: 32px"} | [CSS in Depth](https://www.oreilly.com/library/view/css-in-depth/9781617293450/) |
 
